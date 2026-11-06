@@ -1,0 +1,61 @@
+model,arm,slice,outcome,events,trials,percent,ci_low,ci_high
+GPT-5-mini,iterative,All,undertriage,545,5180,10.5,9.7,11.4
+GPT-5-mini,iterative,Urgent,undertriage,331,4070,8.1,7.3,9.0
+GPT-5-mini,iterative,Emergent,undertriage,214,1110,19.3,17.1,21.7
+GPT-5-mini,iterative,All,overtriage,177,5180,3.4,3.0,3.9
+GPT-5-mini,iterative,Urgent,overtriage,177,4070,4.3,3.8,5.0
+GPT-5-mini,iterative,Emergent,overtriage,0,1110,0.0,0.0,0.3
+GPT-5-mini,control,All,undertriage,13,140,9.3,5.5,15.2
+GPT-5-mini,control,Urgent,undertriage,6,110,5.5,2.5,11.4
+GPT-5-mini,control,Emergent,undertriage,7,30,23.3,11.8,40.9
+GPT-5-mini,control,All,overtriage,0,140,0.0,0.0,2.7
+GPT-5-mini,control,Urgent,overtriage,0,110,0.0,0.0,3.4
+GPT-5-mini,control,Emergent,overtriage,0,30,0.0,0.0,11.4
+GPT-6 Sol,iterative,All,undertriage,168,5180,3.2,2.8,3.8
+GPT-6 Sol,iterative,Urgent,undertriage,134,4070,3.3,2.8,3.9
+GPT-6 Sol,iterative,Emergent,undertriage,34,1110,3.1,2.2,4.2
+GPT-6 Sol,iterative,All,overtriage,695,5180,13.4,12.5,14.4
+GPT-6 Sol,iterative,Urgent,overtriage,695,4070,17.1,16.0,18.3
+GPT-6 Sol,iterative,Emergent,overtriage,0,1110,0.0,0.0,0.3
+GPT-6 Sol,control,All,undertriage,5,140,3.6,1.5,8.1
+GPT-6 Sol,control,Urgent,undertriage,5,110,4.5,2.0,10.2
+GPT-6 Sol,control,Emergent,undertriage,0,30,0.0,0.0,11.4
+GPT-6 Sol,control,All,overtriage,12,140,8.6,5.0,14.4
+GPT-6 Sol,control,Urgent,overtriage,12,110,10.9,6.4,18.1
+GPT-6 Sol,control,Emergent,overtriage,0,30,0.0,0.0,11.4
+Claude Opus 5.5,iterative,All,undertriage,115,5180,2.2,1.9,2.7
+Claude Opus 5.5,iterative,Urgent,undertriage,77,4070,1.9,1.5,2.4
+Claude Opus 5.5,iterative,Emergent,undertriage,38,1110,3.4,2.5,4.7
+Claude Opus 5.5,iterative,All,overtriage,396,5180,7.6,7.0,8.4
+Claude Opus 5.5,iterative,Urgent,overtriage,396,4070,9.7,8.9,10.7
+Claude Opus 5.5,iterative,Emergent,overtriage,0,1110,0.0,0.0,0.3
+Claude Opus 5.5,control,All,undertriage,5,140,3.6,1.5,8.1
+Claude Opus 5.5,control,Urgent,undertriage,0,110,0.0,0.0,3.4
+Claude Opus 5.5,control,Emergent,undertriage,5,30,16.7,7.3,33.6
+Claude Opus 5.5,control,All,overtriage,4,140,2.9,1.1,7.1
+Claude Opus 5.5,control,Urgent,overtriage,4,110,3.6,1.4,9.0
+Claude Opus 5.5,control,Emergent,overtriage,0,30,0.0,0.0,11.4
+Gemma 4 31B,iterative,All,undertriage,478,5180,9.2,8.5,10.0
+Gemma 4 31B,iterative,Urgent,undertriage,364,4070,8.9,8.1,9.9
+Gemma 4 31B,iterative,Emergent,undertriage,114,1110,10.3,8.6,12.2
+Gemma 4 31B,iterative,All,overtriage,533,5180,10.3,9.5,11.1
+Gemma 4 31B,iterative,Urgent,overtriage,533,4070,13.1,12.1,14.2
+Gemma 4 31B,iterative,Emergent,overtriage,0,1110,0.0,0.0,0.3
+Gemma 4 31B,control,All,undertriage,9,140,6.4,3.4,11.8
+Gemma 4 31B,control,Urgent,undertriage,6,110,5.5,2.5,11.4
+Gemma 4 31B,control,Emergent,undertriage,3,30,10.0,3.5,25.6
+Gemma 4 31B,control,All,overtriage,4,140,2.9,1.1,7.1
+Gemma 4 31B,control,Urgent,overtriage,4,110,3.6,1.4,9.0
+Gemma 4 31B,control,Emergent,overtriage,0,30,0.0,0.0,11.4
+Muse Glimmer,iterative,All,undertriage,396,5180,7.6,7.0,8.4
+Muse Glimmer,iterative,Urgent,undertriage,234,4070,5.7,5.1,6.5
+Muse Glimmer,iterative,Emergent,undertriage,162,1110,14.6,12.6,16.8
+Muse Glimmer,iterative,All,overtriage,504,5180,9.7,9.0,10.6
+Muse Glimmer,iterative,Urgent,overtriage,504,4070,12.4,11.4,13.4
+Muse Glimmer,iterative,Emergent,overtriage,0,1110,0.0,0.0,0.3
+Muse Glimmer,control,All,undertriage,9,140,6.4,3.4,11.8
+Muse Glimmer,control,Urgent,undertriage,5,110,4.5,2.0,10.2
+Muse Glimmer,control,Emergent,undertriage,4,30,13.3,5.3,29.7
+Muse Glimmer,control,All,overtriage,5,140,3.6,1.5,8.1
+Muse Glimmer,control,Urgent,overtriage,5,110,4.5,2.0,10.2
+Muse Glimmer,control,Emergent,overtriage,0,30,0.0,0.0,11.4

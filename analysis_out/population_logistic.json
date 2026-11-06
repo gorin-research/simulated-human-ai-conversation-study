@@ -1,0 +1,25 @@
+{
+  "GPT-5-mini": {
+    "estimated": true,
+    "pleasing_pp": 9.87,
+    "pleasing_or": 2.19
+  },
+  "GPT-6 Sol": {
+    "estimated": false
+  },
+  "Claude Opus 5.5": {
+    "estimated": true,
+    "pleasing_pp": 4.42,
+    "pleasing_or": 7.21
+  },
+  "Gemma 4 31B": {
+    "estimated": true,
+    "pleasing_pp": 8.23,
+    "pleasing_or": 2.1
+  },
+  "Muse Glimmer": {
+    "estimated": true,
+    "pleasing_pp": 7.33,
+    "pleasing_or": 2.14
+  }
+}

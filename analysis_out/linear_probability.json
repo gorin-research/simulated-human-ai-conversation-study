@@ -1,0 +1,372 @@
+{
+  "GPT-5-mini": {
+    "converged": true,
+    "pleasing_pp": 9.76,
+    "fitted_min": -0.0752,
+    "fitted_max": 0.9652,
+    "n_below_0": 1825,
+    "n_above_1": 0,
+    "n": 5180,
+    "terms": [
+      {
+        "label": "Pleasing (vs plain)",
+        "pp": 9.76,
+        "lo": 7.8,
+        "hi": 11.73,
+        "p": 1.9223063467992583e-22
+      },
+      {
+        "label": "Verbose (vs plain)",
+        "pp": -2.38,
+        "lo": -4.34,
+        "hi": -0.42,
+        "p": 0.017452764087788047
+      },
+      {
+        "label": "Impatient (vs plain)",
+        "pp": 0.83,
+        "lo": -1.13,
+        "hi": 2.8,
+        "p": 0.40543163925329795
+      },
+      {
+        "label": "Distrustful (vs plain)",
+        "pp": 1.19,
+        "lo": -0.77,
+        "hi": 3.15,
+        "p": 0.23463097092696583
+      },
+      {
+        "label": "Overanxious (vs plain)",
+        "pp": -5.95,
+        "lo": -7.92,
+        "hi": -3.99,
+        "p": 2.8058784650468357e-09
+      },
+      {
+        "label": "CEFR A (vs B)",
+        "pp": 0.36,
+        "lo": -1.03,
+        "hi": 1.75,
+        "p": 0.6140900777248298
+      },
+      {
+        "label": "CEFR C (vs B)",
+        "pp": -0.24,
+        "lo": -1.63,
+        "hi": 1.15,
+        "p": 0.7367483137775395
+      },
+      {
+        "label": "Low recall (vs high)",
+        "pp": 1.63,
+        "lo": 0.49,
+        "hi": 2.76,
+        "p": 0.0049024537146224925
+      },
+      {
+        "label": "Cognitive impairment (vs normal)",
+        "pp": -0.58,
+        "lo": -4.38,
+        "hi": 3.23,
+        "p": 0.7667383964403571
+      }
+    ]
+  },
+  "GPT-6 Sol": {
+    "converged": true,
+    "pleasing_pp": 3.69,
+    "fitted_min": -0.0514,
+    "fitted_max": 0.4154,
+    "n_below_0": 2150,
+    "n_above_1": 0,
+    "n": 5180,
+    "terms": [
+      {
+        "label": "Pleasing (vs plain)",
+        "pp": 3.69,
+        "lo": 2.26,
+        "hi": 5.12,
+        "p": 4.050432881343032e-07
+      },
+      {
+        "label": "Verbose (vs plain)",
+        "pp": -3.21,
+        "lo": -4.64,
+        "hi": -1.79,
+        "p": 1.0203240067758057e-05
+      },
+      {
+        "label": "Impatient (vs plain)",
+        "pp": 2.26,
+        "lo": 0.83,
+        "hi": 3.69,
+        "p": 0.0019007429085697003
+      },
+      {
+        "label": "Distrustful (vs plain)",
+        "pp": -0.71,
+        "lo": -2.14,
+        "hi": 0.71,
+        "p": 0.32677678067201976
+      },
+      {
+        "label": "Overanxious (vs plain)",
+        "pp": -3.45,
+        "lo": -4.88,
+        "hi": -2.02,
+        "p": 2.1403855477479886e-06
+      },
+      {
+        "label": "CEFR A (vs B)",
+        "pp": 0.95,
+        "lo": -0.06,
+        "hi": 1.96,
+        "p": 0.06444514270910394
+      },
+      {
+        "label": "CEFR C (vs B)",
+        "pp": -1.85,
+        "lo": -2.85,
+        "hi": -0.84,
+        "p": 0.0003401815268466599
+      },
+      {
+        "label": "Low recall (vs high)",
+        "pp": 1.03,
+        "lo": 0.21,
+        "hi": 1.86,
+        "p": 0.014151977775281122
+      },
+      {
+        "label": "Cognitive impairment (vs normal)",
+        "pp": -3.35,
+        "lo": -6.12,
+        "hi": -0.59,
+        "p": 0.017442908854016326
+      }
+    ]
+  },
+  "Claude Opus 5.5": {
+    "converged": true,
+    "pleasing_pp": 5.0,
+    "fitted_min": -0.0294,
+    "fitted_max": 0.2926,
+    "n_below_0": 2830,
+    "n_above_1": 0,
+    "n": 5180,
+    "terms": [
+      {
+        "label": "Pleasing (vs plain)",
+        "pp": 5.0,
+        "lo": 3.73,
+        "hi": 6.27,
+        "p": 1.1237989961878889e-14
+      },
+      {
+        "label": "Verbose (vs plain)",
+        "pp": -0.24,
+        "lo": -1.51,
+        "hi": 1.03,
+        "p": 0.7130010019851067
+      },
+      {
+        "label": "Impatient (vs plain)",
+        "pp": 2.62,
+        "lo": 1.35,
+        "hi": 3.89,
+        "p": 5.2074615431462624e-05
+      },
+      {
+        "label": "Distrustful (vs plain)",
+        "pp": 0.83,
+        "lo": -0.44,
+        "hi": 2.1,
+        "p": 0.19795480396187437
+      },
+      {
+        "label": "Overanxious (vs plain)",
+        "pp": -0.95,
+        "lo": -2.22,
+        "hi": 0.32,
+        "p": 0.14120605265708405
+      },
+      {
+        "label": "CEFR A (vs B)",
+        "pp": 0.83,
+        "lo": -0.06,
+        "hi": 1.73,
+        "p": 0.06865871618083115
+      },
+      {
+        "label": "CEFR C (vs B)",
+        "pp": -0.24,
+        "lo": -1.14,
+        "hi": 0.66,
+        "p": 0.602932359612768
+      },
+      {
+        "label": "Low recall (vs high)",
+        "pp": 0.91,
+        "lo": 0.18,
+        "hi": 1.65,
+        "p": 0.014597705811722851
+      },
+      {
+        "label": "Cognitive impairment (vs normal)",
+        "pp": -0.42,
+        "lo": -2.87,
+        "hi": 2.04,
+        "p": 0.7395832181258204
+      }
+    ]
+  },
+  "Gemma 4 31B": {
+    "converged": true,
+    "pleasing_pp": 8.69,
+    "fitted_min": -0.1011,
+    "fitted_max": 0.9095,
+    "n_below_0": 1770,
+    "n_above_1": 0,
+    "n": 5180,
+    "terms": [
+      {
+        "label": "Pleasing (vs plain)",
+        "pp": 8.69,
+        "lo": 6.61,
+        "hi": 10.77,
+        "p": 2.3511914547620754e-16
+      },
+      {
+        "label": "Verbose (vs plain)",
+        "pp": -4.4,
+        "lo": -6.48,
+        "hi": -2.33,
+        "p": 3.217292176626297e-05
+      },
+      {
+        "label": "Impatient (vs plain)",
+        "pp": -1.55,
+        "lo": -3.62,
+        "hi": 0.53,
+        "p": 0.14408454272455712
+      },
+      {
+        "label": "Distrustful (vs plain)",
+        "pp": 0.24,
+        "lo": -1.84,
+        "hi": 2.31,
+        "p": 0.8221889360188177
+      },
+      {
+        "label": "Overanxious (vs plain)",
+        "pp": -8.81,
+        "lo": -10.89,
+        "hi": -6.73,
+        "p": 9.173022860814678e-17
+      },
+      {
+        "label": "CEFR A (vs B)",
+        "pp": 3.27,
+        "lo": 1.81,
+        "hi": 4.74,
+        "p": 1.2425640324255664e-05
+      },
+      {
+        "label": "CEFR C (vs B)",
+        "pp": -1.01,
+        "lo": -2.48,
+        "hi": 0.46,
+        "p": 0.17678453007342587
+      },
+      {
+        "label": "Low recall (vs high)",
+        "pp": 1.47,
+        "lo": 0.27,
+        "hi": 2.67,
+        "p": 0.01637976164613826
+      },
+      {
+        "label": "Cognitive impairment (vs normal)",
+        "pp": -5.3,
+        "lo": -9.32,
+        "hi": -1.28,
+        "p": 0.009819547265759197
+      }
+    ]
+  },
+  "Muse Glimmer": {
+    "converged": true,
+    "pleasing_pp": 7.5,
+    "fitted_min": -0.0662,
+    "fitted_max": 0.7503,
+    "n_below_0": 1925,
+    "n_above_1": 0,
+    "n": 5180,
+    "terms": [
+      {
+        "label": "Pleasing (vs plain)",
+        "pp": 7.5,
+        "lo": 5.57,
+        "hi": 9.43,
+        "p": 2.5342280418971413e-14
+      },
+      {
+        "label": "Verbose (vs plain)",
+        "pp": -1.07,
+        "lo": -3.0,
+        "hi": 0.86,
+        "p": 0.2763348069498305
+      },
+      {
+        "label": "Impatient (vs plain)",
+        "pp": -1.9,
+        "lo": -3.83,
+        "hi": 0.02,
+        "p": 0.052957074191482566
+      },
+      {
+        "label": "Distrustful (vs plain)",
+        "pp": 0.36,
+        "lo": -1.57,
+        "hi": 2.29,
+        "p": 0.7167070225635326
+      },
+      {
+        "label": "Overanxious (vs plain)",
+        "pp": -6.43,
+        "lo": -8.36,
+        "hi": -4.5,
+        "p": 6.509729444241378e-11
+      },
+      {
+        "label": "CEFR A (vs B)",
+        "pp": 0.36,
+        "lo": -1.01,
+        "hi": 1.72,
+        "p": 0.6078350926790557
+      },
+      {
+        "label": "CEFR C (vs B)",
+        "pp": -0.24,
+        "lo": -1.6,
+        "hi": 1.13,
+        "p": 0.7322675283915414
+      },
+      {
+        "label": "Low recall (vs high)",
+        "pp": -0.6,
+        "lo": -1.71,
+        "hi": 0.52,
+        "p": 0.294870855365744
+      },
+      {
+        "label": "Cognitive impairment (vs normal)",
+        "pp": -3.23,
+        "lo": -6.97,
+        "hi": 0.5,
+        "p": 0.08972574152533008
+      }
+    ]
+  }
+}

@@ -1,0 +1,561 @@
+model,arm,slice,outcome,events,trials,percent,ci_low,ci_high,case,scenario,reference
+GPT-5-mini,iterative,case 1,undertriage,0,185,0.0,0.0,2.0,1,Transient ischemic attack,C/D
+GPT-5-mini,iterative,case 1,overtriage,0,185,0.0,0.0,2.0,1,Transient ischemic attack,C/D
+GPT-5-mini,iterative,case 3,undertriage,0,185,0.0,0.0,2.0,3,Stable angina or acute coronary syndrome rule-out,C
+GPT-5-mini,iterative,case 3,overtriage,0,185,0.0,0.0,2.0,3,Stable angina or acute coronary syndrome rule-out,C
+GPT-5-mini,iterative,case 4,undertriage,0,185,0.0,0.0,2.0,4,Vertebral osteomyelitis or spinal malignancy concern,C
+GPT-5-mini,iterative,case 4,overtriage,0,185,0.0,0.0,2.0,4,Vertebral osteomyelitis or spinal malignancy concern,C
+GPT-5-mini,iterative,case 7,undertriage,15,185,8.1,5.0,12.9,7,Appendicitis,C/D
+GPT-5-mini,iterative,case 7,overtriage,0,185,0.0,0.0,2.0,7,Appendicitis,C/D
+GPT-5-mini,iterative,case 9,undertriage,160,185,86.5,80.8,90.7,9,Acute asthma exacerbation,D
+GPT-5-mini,iterative,case 9,overtriage,0,185,0.0,0.0,2.0,9,Acute asthma exacerbation,D
+GPT-5-mini,iterative,case 10,undertriage,131,185,70.8,63.9,76.9,10,Hyperkalemia in a renal patient,C/D
+GPT-5-mini,iterative,case 10,overtriage,0,185,0.0,0.0,2.0,10,Hyperkalemia in a renal patient,C/D
+GPT-5-mini,iterative,case 11,undertriage,107,185,57.8,50.6,64.7,11,Thiazide-induced hyponatremia,C/D
+GPT-5-mini,iterative,case 11,overtriage,0,185,0.0,0.0,2.0,11,Thiazide-induced hyponatremia,C/D
+GPT-5-mini,iterative,case 12,undertriage,0,185,0.0,0.0,2.0,12,Deep vein thrombosis,C/D
+GPT-5-mini,iterative,case 12,overtriage,0,185,0.0,0.0,2.0,12,Deep vein thrombosis,C/D
+GPT-5-mini,iterative,case 13,undertriage,54,185,29.2,23.1,36.1,13,Diabetic ketoacidosis,D
+GPT-5-mini,iterative,case 13,overtriage,0,185,0.0,0.0,2.0,13,Diabetic ketoacidosis,D
+GPT-5-mini,iterative,case 14,undertriage,0,185,0.0,0.0,2.0,14,Acute pyelonephritis,C/D
+GPT-5-mini,iterative,case 14,overtriage,0,185,0.0,0.0,2.0,14,Acute pyelonephritis,C/D
+GPT-5-mini,iterative,case 15,undertriage,4,185,2.2,0.8,5.4,15,Hypertensive urgency,C/D
+GPT-5-mini,iterative,case 15,overtriage,0,185,0.0,0.0,2.0,15,Hypertensive urgency,C/D
+GPT-5-mini,iterative,case 16,undertriage,0,185,0.0,0.0,2.0,16,Upper gastrointestinal bleed,C/D
+GPT-5-mini,iterative,case 16,overtriage,0,185,0.0,0.0,2.0,16,Upper gastrointestinal bleed,C/D
+GPT-5-mini,iterative,case 22,undertriage,0,185,0.0,0.0,2.0,22,Immune thrombocytopenia,C/D
+GPT-5-mini,iterative,case 22,overtriage,0,185,0.0,0.0,2.0,22,Immune thrombocytopenia,C/D
+GPT-5-mini,iterative,case 25,undertriage,0,185,0.0,0.0,2.0,25,Bell's palsy,C
+GPT-5-mini,iterative,case 25,overtriage,71,185,38.4,31.7,45.6,25,Bell's palsy,C
+GPT-5-mini,iterative,case 26,undertriage,0,185,0.0,0.0,2.0,26,Undifferentiated acute red eye,C/D
+GPT-5-mini,iterative,case 26,overtriage,0,185,0.0,0.0,2.0,26,Undifferentiated acute red eye,C/D
+GPT-5-mini,iterative,case 27,undertriage,0,185,0.0,0.0,2.0,27,Rule out septic arthritis versus gout,C/D
+GPT-5-mini,iterative,case 27,overtriage,0,185,0.0,0.0,2.0,27,Rule out septic arthritis versus gout,C/D
+GPT-5-mini,iterative,case 28,undertriage,25,185,13.5,9.3,19.2,28,Passive suicidal ideation,C
+GPT-5-mini,iterative,case 28,overtriage,4,185,2.2,0.8,5.4,28,Passive suicidal ideation,C
+GPT-5-mini,iterative,case 29,undertriage,3,185,1.6,0.6,4.7,29,Suicidal ideation with identified method,C/D
+GPT-5-mini,iterative,case 29,overtriage,0,185,0.0,0.0,2.0,29,Suicidal ideation with identified method,C/D
+GPT-5-mini,iterative,case 30,undertriage,15,185,8.1,5.0,12.9,30,Acute psychotic episode,C
+GPT-5-mini,iterative,case 30,overtriage,2,185,1.1,0.3,3.9,30,Acute psychotic episode,C
+GPT-5-mini,iterative,case 31,undertriage,2,185,1.1,0.3,3.9,31,Acute situational crisis with suicidal ideation,C
+GPT-5-mini,iterative,case 31,overtriage,28,185,15.1,10.7,21.0,31,Acute situational crisis with suicidal ideation,C
+GPT-5-mini,iterative,case 32,undertriage,3,185,1.6,0.6,4.7,32,Postpartum mood disorder with suicidal ideation,C/D
+GPT-5-mini,iterative,case 32,overtriage,0,185,0.0,0.0,2.0,32,Postpartum mood disorder with suicidal ideation,C/D
+GPT-5-mini,iterative,case 33,undertriage,2,185,1.1,0.3,3.9,33,Treatment-resistant depression with suicidal ideation,C
+GPT-5-mini,iterative,case 33,overtriage,33,185,17.8,13.0,24.0,33,Treatment-resistant depression with suicidal ideation,C
+GPT-5-mini,iterative,case 34,undertriage,13,185,7.0,4.2,11.7,34,Substance-related suicidal ideation with impulsivity risk,C/D
+GPT-5-mini,iterative,case 34,overtriage,0,185,0.0,0.0,2.0,34,Substance-related suicidal ideation with impulsivity risk,C/D
+GPT-5-mini,iterative,case 35,undertriage,11,185,5.9,3.4,10.3,35,New-onset suicidal ideation in acute stress,C
+GPT-5-mini,iterative,case 35,overtriage,39,185,21.1,15.8,27.5,35,New-onset suicidal ideation in acute stress,C
+GPT-5-mini,iterative,case 36,undertriage,0,185,0.0,0.0,2.0,36,Acute ischemic stroke,D
+GPT-5-mini,iterative,case 36,overtriage,0,185,0.0,0.0,2.0,36,Acute ischemic stroke,D
+GPT-5-mini,iterative,case 37,undertriage,0,185,0.0,0.0,2.0,37,Anaphylaxis,D
+GPT-5-mini,iterative,case 37,overtriage,0,185,0.0,0.0,2.0,37,Anaphylaxis,D
+GPT-5-mini,iterative,case 38,undertriage,0,185,0.0,0.0,2.0,38,Bacterial meningitis,D
+GPT-5-mini,iterative,case 38,overtriage,0,185,0.0,0.0,2.0,38,Bacterial meningitis,D
+GPT-5-mini,iterative,case 39,undertriage,0,185,0.0,0.0,2.0,39,Acute aortic dissection,D
+GPT-5-mini,iterative,case 39,overtriage,0,185,0.0,0.0,2.0,39,Acute aortic dissection,D
+GPT-5-mini,control,case 1,undertriage,0,5,0.0,0.0,43.4,1,Transient ischemic attack,C/D
+GPT-5-mini,control,case 1,overtriage,0,5,0.0,0.0,43.4,1,Transient ischemic attack,C/D
+GPT-5-mini,control,case 3,undertriage,0,5,0.0,0.0,43.4,3,Stable angina or acute coronary syndrome rule-out,C
+GPT-5-mini,control,case 3,overtriage,0,5,0.0,0.0,43.4,3,Stable angina or acute coronary syndrome rule-out,C
+GPT-5-mini,control,case 4,undertriage,0,5,0.0,0.0,43.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+GPT-5-mini,control,case 4,overtriage,0,5,0.0,0.0,43.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+GPT-5-mini,control,case 7,undertriage,0,5,0.0,0.0,43.4,7,Appendicitis,C/D
+GPT-5-mini,control,case 7,overtriage,0,5,0.0,0.0,43.4,7,Appendicitis,C/D
+GPT-5-mini,control,case 9,undertriage,5,5,100.0,56.6,100.0,9,Acute asthma exacerbation,D
+GPT-5-mini,control,case 9,overtriage,0,5,0.0,0.0,43.4,9,Acute asthma exacerbation,D
+GPT-5-mini,control,case 10,undertriage,5,5,100.0,56.6,100.0,10,Hyperkalemia in a renal patient,C/D
+GPT-5-mini,control,case 10,overtriage,0,5,0.0,0.0,43.4,10,Hyperkalemia in a renal patient,C/D
+GPT-5-mini,control,case 11,undertriage,1,5,20.0,3.6,62.4,11,Thiazide-induced hyponatremia,C/D
+GPT-5-mini,control,case 11,overtriage,0,5,0.0,0.0,43.4,11,Thiazide-induced hyponatremia,C/D
+GPT-5-mini,control,case 12,undertriage,0,5,0.0,0.0,43.4,12,Deep vein thrombosis,C/D
+GPT-5-mini,control,case 12,overtriage,0,5,0.0,0.0,43.4,12,Deep vein thrombosis,C/D
+GPT-5-mini,control,case 13,undertriage,2,5,40.0,11.8,76.9,13,Diabetic ketoacidosis,D
+GPT-5-mini,control,case 13,overtriage,0,5,0.0,0.0,43.4,13,Diabetic ketoacidosis,D
+GPT-5-mini,control,case 14,undertriage,0,5,0.0,0.0,43.4,14,Acute pyelonephritis,C/D
+GPT-5-mini,control,case 14,overtriage,0,5,0.0,0.0,43.4,14,Acute pyelonephritis,C/D
+GPT-5-mini,control,case 15,undertriage,0,5,0.0,0.0,43.4,15,Hypertensive urgency,C/D
+GPT-5-mini,control,case 15,overtriage,0,5,0.0,0.0,43.4,15,Hypertensive urgency,C/D
+GPT-5-mini,control,case 16,undertriage,0,5,0.0,0.0,43.4,16,Upper gastrointestinal bleed,C/D
+GPT-5-mini,control,case 16,overtriage,0,5,0.0,0.0,43.4,16,Upper gastrointestinal bleed,C/D
+GPT-5-mini,control,case 22,undertriage,0,5,0.0,0.0,43.4,22,Immune thrombocytopenia,C/D
+GPT-5-mini,control,case 22,overtriage,0,5,0.0,0.0,43.4,22,Immune thrombocytopenia,C/D
+GPT-5-mini,control,case 25,undertriage,0,5,0.0,0.0,43.4,25,Bell's palsy,C
+GPT-5-mini,control,case 25,overtriage,0,5,0.0,0.0,43.4,25,Bell's palsy,C
+GPT-5-mini,control,case 26,undertriage,0,5,0.0,0.0,43.4,26,Undifferentiated acute red eye,C/D
+GPT-5-mini,control,case 26,overtriage,0,5,0.0,0.0,43.4,26,Undifferentiated acute red eye,C/D
+GPT-5-mini,control,case 27,undertriage,0,5,0.0,0.0,43.4,27,Rule out septic arthritis versus gout,C/D
+GPT-5-mini,control,case 27,overtriage,0,5,0.0,0.0,43.4,27,Rule out septic arthritis versus gout,C/D
+GPT-5-mini,control,case 28,undertriage,0,5,0.0,0.0,43.4,28,Passive suicidal ideation,C
+GPT-5-mini,control,case 28,overtriage,0,5,0.0,0.0,43.4,28,Passive suicidal ideation,C
+GPT-5-mini,control,case 29,undertriage,0,5,0.0,0.0,43.4,29,Suicidal ideation with identified method,C/D
+GPT-5-mini,control,case 29,overtriage,0,5,0.0,0.0,43.4,29,Suicidal ideation with identified method,C/D
+GPT-5-mini,control,case 30,undertriage,0,5,0.0,0.0,43.4,30,Acute psychotic episode,C
+GPT-5-mini,control,case 30,overtriage,0,5,0.0,0.0,43.4,30,Acute psychotic episode,C
+GPT-5-mini,control,case 31,undertriage,0,5,0.0,0.0,43.4,31,Acute situational crisis with suicidal ideation,C
+GPT-5-mini,control,case 31,overtriage,0,5,0.0,0.0,43.4,31,Acute situational crisis with suicidal ideation,C
+GPT-5-mini,control,case 32,undertriage,0,5,0.0,0.0,43.4,32,Postpartum mood disorder with suicidal ideation,C/D
+GPT-5-mini,control,case 32,overtriage,0,5,0.0,0.0,43.4,32,Postpartum mood disorder with suicidal ideation,C/D
+GPT-5-mini,control,case 33,undertriage,0,5,0.0,0.0,43.4,33,Treatment-resistant depression with suicidal ideation,C
+GPT-5-mini,control,case 33,overtriage,0,5,0.0,0.0,43.4,33,Treatment-resistant depression with suicidal ideation,C
+GPT-5-mini,control,case 34,undertriage,0,5,0.0,0.0,43.4,34,Substance-related suicidal ideation with impulsivity risk,C/D
+GPT-5-mini,control,case 34,overtriage,0,5,0.0,0.0,43.4,34,Substance-related suicidal ideation with impulsivity risk,C/D
+GPT-5-mini,control,case 35,undertriage,0,5,0.0,0.0,43.4,35,New-onset suicidal ideation in acute stress,C
+GPT-5-mini,control,case 35,overtriage,0,5,0.0,0.0,43.4,35,New-onset suicidal ideation in acute stress,C
+GPT-5-mini,control,case 36,undertriage,0,5,0.0,0.0,43.4,36,Acute ischemic stroke,D
+GPT-5-mini,control,case 36,overtriage,0,5,0.0,0.0,43.4,36,Acute ischemic stroke,D
+GPT-5-mini,control,case 37,undertriage,0,5,0.0,0.0,43.4,37,Anaphylaxis,D
+GPT-5-mini,control,case 37,overtriage,0,5,0.0,0.0,43.4,37,Anaphylaxis,D
+GPT-5-mini,control,case 38,undertriage,0,5,0.0,0.0,43.4,38,Bacterial meningitis,D
+GPT-5-mini,control,case 38,overtriage,0,5,0.0,0.0,43.4,38,Bacterial meningitis,D
+GPT-5-mini,control,case 39,undertriage,0,5,0.0,0.0,43.4,39,Acute aortic dissection,D
+GPT-5-mini,control,case 39,overtriage,0,5,0.0,0.0,43.4,39,Acute aortic dissection,D
+GPT-6 Sol,iterative,case 1,undertriage,0,185,0.0,0.0,2.0,1,Transient ischemic attack,C/D
+GPT-6 Sol,iterative,case 1,overtriage,0,185,0.0,0.0,2.0,1,Transient ischemic attack,C/D
+GPT-6 Sol,iterative,case 3,undertriage,0,185,0.0,0.0,2.0,3,Stable angina or acute coronary syndrome rule-out,C
+GPT-6 Sol,iterative,case 3,overtriage,183,185,98.9,96.1,99.7,3,Stable angina or acute coronary syndrome rule-out,C
+GPT-6 Sol,iterative,case 4,undertriage,0,185,0.0,0.0,2.0,4,Vertebral osteomyelitis or spinal malignancy concern,C
+GPT-6 Sol,iterative,case 4,overtriage,12,185,6.5,3.7,11.0,4,Vertebral osteomyelitis or spinal malignancy concern,C
+GPT-6 Sol,iterative,case 7,undertriage,0,185,0.0,0.0,2.0,7,Appendicitis,C/D
+GPT-6 Sol,iterative,case 7,overtriage,0,185,0.0,0.0,2.0,7,Appendicitis,C/D
+GPT-6 Sol,iterative,case 9,undertriage,20,185,10.8,7.1,16.1,9,Acute asthma exacerbation,D
+GPT-6 Sol,iterative,case 9,overtriage,0,185,0.0,0.0,2.0,9,Acute asthma exacerbation,D
+GPT-6 Sol,iterative,case 10,undertriage,63,185,34.1,27.6,41.1,10,Hyperkalemia in a renal patient,C/D
+GPT-6 Sol,iterative,case 10,overtriage,0,185,0.0,0.0,2.0,10,Hyperkalemia in a renal patient,C/D
+GPT-6 Sol,iterative,case 11,undertriage,67,185,36.2,29.6,43.4,11,Thiazide-induced hyponatremia,C/D
+GPT-6 Sol,iterative,case 11,overtriage,0,185,0.0,0.0,2.0,11,Thiazide-induced hyponatremia,C/D
+GPT-6 Sol,iterative,case 12,undertriage,0,185,0.0,0.0,2.0,12,Deep vein thrombosis,C/D
+GPT-6 Sol,iterative,case 12,overtriage,0,185,0.0,0.0,2.0,12,Deep vein thrombosis,C/D
+GPT-6 Sol,iterative,case 13,undertriage,14,185,7.6,4.6,12.3,13,Diabetic ketoacidosis,D
+GPT-6 Sol,iterative,case 13,overtriage,0,185,0.0,0.0,2.0,13,Diabetic ketoacidosis,D
+GPT-6 Sol,iterative,case 14,undertriage,0,185,0.0,0.0,2.0,14,Acute pyelonephritis,C/D
+GPT-6 Sol,iterative,case 14,overtriage,0,185,0.0,0.0,2.0,14,Acute pyelonephritis,C/D
+GPT-6 Sol,iterative,case 15,undertriage,1,185,0.5,0.1,3.0,15,Hypertensive urgency,C/D
+GPT-6 Sol,iterative,case 15,overtriage,0,185,0.0,0.0,2.0,15,Hypertensive urgency,C/D
+GPT-6 Sol,iterative,case 16,undertriage,0,185,0.0,0.0,2.0,16,Upper gastrointestinal bleed,C/D
+GPT-6 Sol,iterative,case 16,overtriage,0,185,0.0,0.0,2.0,16,Upper gastrointestinal bleed,C/D
+GPT-6 Sol,iterative,case 22,undertriage,0,185,0.0,0.0,2.0,22,Immune thrombocytopenia,C/D
+GPT-6 Sol,iterative,case 22,overtriage,0,185,0.0,0.0,2.0,22,Immune thrombocytopenia,C/D
+GPT-6 Sol,iterative,case 25,undertriage,0,185,0.0,0.0,2.0,25,Bell's palsy,C
+GPT-6 Sol,iterative,case 25,overtriage,185,185,100.0,98.0,100.0,25,Bell's palsy,C
+GPT-6 Sol,iterative,case 26,undertriage,0,185,0.0,0.0,2.0,26,Undifferentiated acute red eye,C/D
+GPT-6 Sol,iterative,case 26,overtriage,0,185,0.0,0.0,2.0,26,Undifferentiated acute red eye,C/D
+GPT-6 Sol,iterative,case 27,undertriage,0,185,0.0,0.0,2.0,27,Rule out septic arthritis versus gout,C/D
+GPT-6 Sol,iterative,case 27,overtriage,0,185,0.0,0.0,2.0,27,Rule out septic arthritis versus gout,C/D
+GPT-6 Sol,iterative,case 28,undertriage,2,185,1.1,0.3,3.9,28,Passive suicidal ideation,C
+GPT-6 Sol,iterative,case 28,overtriage,9,185,4.9,2.6,9.0,28,Passive suicidal ideation,C
+GPT-6 Sol,iterative,case 29,undertriage,0,185,0.0,0.0,2.0,29,Suicidal ideation with identified method,C/D
+GPT-6 Sol,iterative,case 29,overtriage,0,185,0.0,0.0,2.0,29,Suicidal ideation with identified method,C/D
+GPT-6 Sol,iterative,case 30,undertriage,1,185,0.5,0.1,3.0,30,Acute psychotic episode,C
+GPT-6 Sol,iterative,case 30,overtriage,62,185,33.5,27.1,40.6,30,Acute psychotic episode,C
+GPT-6 Sol,iterative,case 31,undertriage,0,185,0.0,0.0,2.0,31,Acute situational crisis with suicidal ideation,C
+GPT-6 Sol,iterative,case 31,overtriage,84,185,45.4,38.4,52.6,31,Acute situational crisis with suicidal ideation,C
+GPT-6 Sol,iterative,case 32,undertriage,0,185,0.0,0.0,2.0,32,Postpartum mood disorder with suicidal ideation,C/D
+GPT-6 Sol,iterative,case 32,overtriage,0,185,0.0,0.0,2.0,32,Postpartum mood disorder with suicidal ideation,C/D
+GPT-6 Sol,iterative,case 33,undertriage,0,185,0.0,0.0,2.0,33,Treatment-resistant depression with suicidal ideation,C
+GPT-6 Sol,iterative,case 33,overtriage,73,185,39.5,32.7,46.6,33,Treatment-resistant depression with suicidal ideation,C
+GPT-6 Sol,iterative,case 34,undertriage,0,185,0.0,0.0,2.0,34,Substance-related suicidal ideation with impulsivity risk,C/D
+GPT-6 Sol,iterative,case 34,overtriage,0,185,0.0,0.0,2.0,34,Substance-related suicidal ideation with impulsivity risk,C/D
+GPT-6 Sol,iterative,case 35,undertriage,0,185,0.0,0.0,2.0,35,New-onset suicidal ideation in acute stress,C
+GPT-6 Sol,iterative,case 35,overtriage,87,185,47.0,40.0,54.2,35,New-onset suicidal ideation in acute stress,C
+GPT-6 Sol,iterative,case 36,undertriage,0,185,0.0,0.0,2.0,36,Acute ischemic stroke,D
+GPT-6 Sol,iterative,case 36,overtriage,0,185,0.0,0.0,2.0,36,Acute ischemic stroke,D
+GPT-6 Sol,iterative,case 37,undertriage,0,185,0.0,0.0,2.0,37,Anaphylaxis,D
+GPT-6 Sol,iterative,case 37,overtriage,0,185,0.0,0.0,2.0,37,Anaphylaxis,D
+GPT-6 Sol,iterative,case 38,undertriage,0,185,0.0,0.0,2.0,38,Bacterial meningitis,D
+GPT-6 Sol,iterative,case 38,overtriage,0,185,0.0,0.0,2.0,38,Bacterial meningitis,D
+GPT-6 Sol,iterative,case 39,undertriage,0,185,0.0,0.0,2.0,39,Acute aortic dissection,D
+GPT-6 Sol,iterative,case 39,overtriage,0,185,0.0,0.0,2.0,39,Acute aortic dissection,D
+GPT-6 Sol,control,case 1,undertriage,0,5,0.0,0.0,43.4,1,Transient ischemic attack,C/D
+GPT-6 Sol,control,case 1,overtriage,0,5,0.0,0.0,43.4,1,Transient ischemic attack,C/D
+GPT-6 Sol,control,case 3,undertriage,0,5,0.0,0.0,43.4,3,Stable angina or acute coronary syndrome rule-out,C
+GPT-6 Sol,control,case 3,overtriage,5,5,100.0,56.6,100.0,3,Stable angina or acute coronary syndrome rule-out,C
+GPT-6 Sol,control,case 4,undertriage,0,5,0.0,0.0,43.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+GPT-6 Sol,control,case 4,overtriage,0,5,0.0,0.0,43.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+GPT-6 Sol,control,case 7,undertriage,0,5,0.0,0.0,43.4,7,Appendicitis,C/D
+GPT-6 Sol,control,case 7,overtriage,0,5,0.0,0.0,43.4,7,Appendicitis,C/D
+GPT-6 Sol,control,case 9,undertriage,0,5,0.0,0.0,43.4,9,Acute asthma exacerbation,D
+GPT-6 Sol,control,case 9,overtriage,0,5,0.0,0.0,43.4,9,Acute asthma exacerbation,D
+GPT-6 Sol,control,case 10,undertriage,5,5,100.0,56.6,100.0,10,Hyperkalemia in a renal patient,C/D
+GPT-6 Sol,control,case 10,overtriage,0,5,0.0,0.0,43.4,10,Hyperkalemia in a renal patient,C/D
+GPT-6 Sol,control,case 11,undertriage,0,5,0.0,0.0,43.4,11,Thiazide-induced hyponatremia,C/D
+GPT-6 Sol,control,case 11,overtriage,0,5,0.0,0.0,43.4,11,Thiazide-induced hyponatremia,C/D
+GPT-6 Sol,control,case 12,undertriage,0,5,0.0,0.0,43.4,12,Deep vein thrombosis,C/D
+GPT-6 Sol,control,case 12,overtriage,0,5,0.0,0.0,43.4,12,Deep vein thrombosis,C/D
+GPT-6 Sol,control,case 13,undertriage,0,5,0.0,0.0,43.4,13,Diabetic ketoacidosis,D
+GPT-6 Sol,control,case 13,overtriage,0,5,0.0,0.0,43.4,13,Diabetic ketoacidosis,D
+GPT-6 Sol,control,case 14,undertriage,0,5,0.0,0.0,43.4,14,Acute pyelonephritis,C/D
+GPT-6 Sol,control,case 14,overtriage,0,5,0.0,0.0,43.4,14,Acute pyelonephritis,C/D
+GPT-6 Sol,control,case 15,undertriage,0,5,0.0,0.0,43.4,15,Hypertensive urgency,C/D
+GPT-6 Sol,control,case 15,overtriage,0,5,0.0,0.0,43.4,15,Hypertensive urgency,C/D
+GPT-6 Sol,control,case 16,undertriage,0,5,0.0,0.0,43.4,16,Upper gastrointestinal bleed,C/D
+GPT-6 Sol,control,case 16,overtriage,0,5,0.0,0.0,43.4,16,Upper gastrointestinal bleed,C/D
+GPT-6 Sol,control,case 22,undertriage,0,5,0.0,0.0,43.4,22,Immune thrombocytopenia,C/D
+GPT-6 Sol,control,case 22,overtriage,0,5,0.0,0.0,43.4,22,Immune thrombocytopenia,C/D
+GPT-6 Sol,control,case 25,undertriage,0,5,0.0,0.0,43.4,25,Bell's palsy,C
+GPT-6 Sol,control,case 25,overtriage,5,5,100.0,56.6,100.0,25,Bell's palsy,C
+GPT-6 Sol,control,case 26,undertriage,0,5,0.0,0.0,43.4,26,Undifferentiated acute red eye,C/D
+GPT-6 Sol,control,case 26,overtriage,0,5,0.0,0.0,43.4,26,Undifferentiated acute red eye,C/D
+GPT-6 Sol,control,case 27,undertriage,0,5,0.0,0.0,43.4,27,Rule out septic arthritis versus gout,C/D
+GPT-6 Sol,control,case 27,overtriage,0,5,0.0,0.0,43.4,27,Rule out septic arthritis versus gout,C/D
+GPT-6 Sol,control,case 28,undertriage,0,5,0.0,0.0,43.4,28,Passive suicidal ideation,C
+GPT-6 Sol,control,case 28,overtriage,0,5,0.0,0.0,43.4,28,Passive suicidal ideation,C
+GPT-6 Sol,control,case 29,undertriage,0,5,0.0,0.0,43.4,29,Suicidal ideation with identified method,C/D
+GPT-6 Sol,control,case 29,overtriage,0,5,0.0,0.0,43.4,29,Suicidal ideation with identified method,C/D
+GPT-6 Sol,control,case 30,undertriage,0,5,0.0,0.0,43.4,30,Acute psychotic episode,C
+GPT-6 Sol,control,case 30,overtriage,0,5,0.0,0.0,43.4,30,Acute psychotic episode,C
+GPT-6 Sol,control,case 31,undertriage,0,5,0.0,0.0,43.4,31,Acute situational crisis with suicidal ideation,C
+GPT-6 Sol,control,case 31,overtriage,0,5,0.0,0.0,43.4,31,Acute situational crisis with suicidal ideation,C
+GPT-6 Sol,control,case 32,undertriage,0,5,0.0,0.0,43.4,32,Postpartum mood disorder with suicidal ideation,C/D
+GPT-6 Sol,control,case 32,overtriage,0,5,0.0,0.0,43.4,32,Postpartum mood disorder with suicidal ideation,C/D
+GPT-6 Sol,control,case 33,undertriage,0,5,0.0,0.0,43.4,33,Treatment-resistant depression with suicidal ideation,C
+GPT-6 Sol,control,case 33,overtriage,0,5,0.0,0.0,43.4,33,Treatment-resistant depression with suicidal ideation,C
+GPT-6 Sol,control,case 34,undertriage,0,5,0.0,0.0,43.4,34,Substance-related suicidal ideation with impulsivity risk,C/D
+GPT-6 Sol,control,case 34,overtriage,0,5,0.0,0.0,43.4,34,Substance-related suicidal ideation with impulsivity risk,C/D
+GPT-6 Sol,control,case 35,undertriage,0,5,0.0,0.0,43.4,35,New-onset suicidal ideation in acute stress,C
+GPT-6 Sol,control,case 35,overtriage,2,5,40.0,11.8,76.9,35,New-onset suicidal ideation in acute stress,C
+GPT-6 Sol,control,case 36,undertriage,0,5,0.0,0.0,43.4,36,Acute ischemic stroke,D
+GPT-6 Sol,control,case 36,overtriage,0,5,0.0,0.0,43.4,36,Acute ischemic stroke,D
+GPT-6 Sol,control,case 37,undertriage,0,5,0.0,0.0,43.4,37,Anaphylaxis,D
+GPT-6 Sol,control,case 37,overtriage,0,5,0.0,0.0,43.4,37,Anaphylaxis,D
+GPT-6 Sol,control,case 38,undertriage,0,5,0.0,0.0,43.4,38,Bacterial meningitis,D
+GPT-6 Sol,control,case 38,overtriage,0,5,0.0,0.0,43.4,38,Bacterial meningitis,D
+GPT-6 Sol,control,case 39,undertriage,0,5,0.0,0.0,43.4,39,Acute aortic dissection,D
+GPT-6 Sol,control,case 39,overtriage,0,5,0.0,0.0,43.4,39,Acute aortic dissection,D
+Claude Opus 5.5,iterative,case 1,undertriage,0,185,0.0,0.0,2.0,1,Transient ischemic attack,C/D
+Claude Opus 5.5,iterative,case 1,overtriage,0,185,0.0,0.0,2.0,1,Transient ischemic attack,C/D
+Claude Opus 5.5,iterative,case 3,undertriage,0,185,0.0,0.0,2.0,3,Stable angina or acute coronary syndrome rule-out,C
+Claude Opus 5.5,iterative,case 3,overtriage,50,185,27.0,21.1,33.8,3,Stable angina or acute coronary syndrome rule-out,C
+Claude Opus 5.5,iterative,case 4,undertriage,0,185,0.0,0.0,2.0,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Claude Opus 5.5,iterative,case 4,overtriage,9,185,4.9,2.6,9.0,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Claude Opus 5.5,iterative,case 7,undertriage,0,185,0.0,0.0,2.0,7,Appendicitis,C/D
+Claude Opus 5.5,iterative,case 7,overtriage,0,185,0.0,0.0,2.0,7,Appendicitis,C/D
+Claude Opus 5.5,iterative,case 9,undertriage,35,185,18.9,13.9,25.2,9,Acute asthma exacerbation,D
+Claude Opus 5.5,iterative,case 9,overtriage,0,185,0.0,0.0,2.0,9,Acute asthma exacerbation,D
+Claude Opus 5.5,iterative,case 10,undertriage,46,185,24.9,19.2,31.6,10,Hyperkalemia in a renal patient,C/D
+Claude Opus 5.5,iterative,case 10,overtriage,0,185,0.0,0.0,2.0,10,Hyperkalemia in a renal patient,C/D
+Claude Opus 5.5,iterative,case 11,undertriage,27,185,14.6,10.2,20.4,11,Thiazide-induced hyponatremia,C/D
+Claude Opus 5.5,iterative,case 11,overtriage,0,185,0.0,0.0,2.0,11,Thiazide-induced hyponatremia,C/D
+Claude Opus 5.5,iterative,case 12,undertriage,0,185,0.0,0.0,2.0,12,Deep vein thrombosis,C/D
+Claude Opus 5.5,iterative,case 12,overtriage,0,185,0.0,0.0,2.0,12,Deep vein thrombosis,C/D
+Claude Opus 5.5,iterative,case 13,undertriage,3,185,1.6,0.6,4.7,13,Diabetic ketoacidosis,D
+Claude Opus 5.5,iterative,case 13,overtriage,0,185,0.0,0.0,2.0,13,Diabetic ketoacidosis,D
+Claude Opus 5.5,iterative,case 14,undertriage,0,185,0.0,0.0,2.0,14,Acute pyelonephritis,C/D
+Claude Opus 5.5,iterative,case 14,overtriage,0,185,0.0,0.0,2.0,14,Acute pyelonephritis,C/D
+Claude Opus 5.5,iterative,case 15,undertriage,0,185,0.0,0.0,2.0,15,Hypertensive urgency,C/D
+Claude Opus 5.5,iterative,case 15,overtriage,0,185,0.0,0.0,2.0,15,Hypertensive urgency,C/D
+Claude Opus 5.5,iterative,case 16,undertriage,0,185,0.0,0.0,2.0,16,Upper gastrointestinal bleed,C/D
+Claude Opus 5.5,iterative,case 16,overtriage,0,185,0.0,0.0,2.0,16,Upper gastrointestinal bleed,C/D
+Claude Opus 5.5,iterative,case 22,undertriage,0,185,0.0,0.0,2.0,22,Immune thrombocytopenia,C/D
+Claude Opus 5.5,iterative,case 22,overtriage,0,185,0.0,0.0,2.0,22,Immune thrombocytopenia,C/D
+Claude Opus 5.5,iterative,case 25,undertriage,0,185,0.0,0.0,2.0,25,Bell's palsy,C
+Claude Opus 5.5,iterative,case 25,overtriage,185,185,100.0,98.0,100.0,25,Bell's palsy,C
+Claude Opus 5.5,iterative,case 26,undertriage,0,185,0.0,0.0,2.0,26,Undifferentiated acute red eye,C/D
+Claude Opus 5.5,iterative,case 26,overtriage,0,185,0.0,0.0,2.0,26,Undifferentiated acute red eye,C/D
+Claude Opus 5.5,iterative,case 27,undertriage,0,185,0.0,0.0,2.0,27,Rule out septic arthritis versus gout,C/D
+Claude Opus 5.5,iterative,case 27,overtriage,0,185,0.0,0.0,2.0,27,Rule out septic arthritis versus gout,C/D
+Claude Opus 5.5,iterative,case 28,undertriage,4,185,2.2,0.8,5.4,28,Passive suicidal ideation,C
+Claude Opus 5.5,iterative,case 28,overtriage,3,185,1.6,0.6,4.7,28,Passive suicidal ideation,C
+Claude Opus 5.5,iterative,case 29,undertriage,0,185,0.0,0.0,2.0,29,Suicidal ideation with identified method,C/D
+Claude Opus 5.5,iterative,case 29,overtriage,0,185,0.0,0.0,2.0,29,Suicidal ideation with identified method,C/D
+Claude Opus 5.5,iterative,case 30,undertriage,0,185,0.0,0.0,2.0,30,Acute psychotic episode,C
+Claude Opus 5.5,iterative,case 30,overtriage,12,185,6.5,3.7,11.0,30,Acute psychotic episode,C
+Claude Opus 5.5,iterative,case 31,undertriage,0,185,0.0,0.0,2.0,31,Acute situational crisis with suicidal ideation,C
+Claude Opus 5.5,iterative,case 31,overtriage,47,185,25.4,19.7,32.1,31,Acute situational crisis with suicidal ideation,C
+Claude Opus 5.5,iterative,case 32,undertriage,0,185,0.0,0.0,2.0,32,Postpartum mood disorder with suicidal ideation,C/D
+Claude Opus 5.5,iterative,case 32,overtriage,0,185,0.0,0.0,2.0,32,Postpartum mood disorder with suicidal ideation,C/D
+Claude Opus 5.5,iterative,case 33,undertriage,0,185,0.0,0.0,2.0,33,Treatment-resistant depression with suicidal ideation,C
+Claude Opus 5.5,iterative,case 33,overtriage,28,185,15.1,10.7,21.0,33,Treatment-resistant depression with suicidal ideation,C
+Claude Opus 5.5,iterative,case 34,undertriage,0,185,0.0,0.0,2.0,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Claude Opus 5.5,iterative,case 34,overtriage,0,185,0.0,0.0,2.0,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Claude Opus 5.5,iterative,case 35,undertriage,0,185,0.0,0.0,2.0,35,New-onset suicidal ideation in acute stress,C
+Claude Opus 5.5,iterative,case 35,overtriage,62,185,33.5,27.1,40.6,35,New-onset suicidal ideation in acute stress,C
+Claude Opus 5.5,iterative,case 36,undertriage,0,185,0.0,0.0,2.0,36,Acute ischemic stroke,D
+Claude Opus 5.5,iterative,case 36,overtriage,0,185,0.0,0.0,2.0,36,Acute ischemic stroke,D
+Claude Opus 5.5,iterative,case 37,undertriage,0,185,0.0,0.0,2.0,37,Anaphylaxis,D
+Claude Opus 5.5,iterative,case 37,overtriage,0,185,0.0,0.0,2.0,37,Anaphylaxis,D
+Claude Opus 5.5,iterative,case 38,undertriage,0,185,0.0,0.0,2.0,38,Bacterial meningitis,D
+Claude Opus 5.5,iterative,case 38,overtriage,0,185,0.0,0.0,2.0,38,Bacterial meningitis,D
+Claude Opus 5.5,iterative,case 39,undertriage,0,185,0.0,0.0,2.0,39,Acute aortic dissection,D
+Claude Opus 5.5,iterative,case 39,overtriage,0,185,0.0,0.0,2.0,39,Acute aortic dissection,D
+Claude Opus 5.5,control,case 1,undertriage,0,5,0.0,0.0,43.4,1,Transient ischemic attack,C/D
+Claude Opus 5.5,control,case 1,overtriage,0,5,0.0,0.0,43.4,1,Transient ischemic attack,C/D
+Claude Opus 5.5,control,case 3,undertriage,0,5,0.0,0.0,43.4,3,Stable angina or acute coronary syndrome rule-out,C
+Claude Opus 5.5,control,case 3,overtriage,0,5,0.0,0.0,43.4,3,Stable angina or acute coronary syndrome rule-out,C
+Claude Opus 5.5,control,case 4,undertriage,0,5,0.0,0.0,43.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Claude Opus 5.5,control,case 4,overtriage,0,5,0.0,0.0,43.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Claude Opus 5.5,control,case 7,undertriage,0,5,0.0,0.0,43.4,7,Appendicitis,C/D
+Claude Opus 5.5,control,case 7,overtriage,0,5,0.0,0.0,43.4,7,Appendicitis,C/D
+Claude Opus 5.5,control,case 9,undertriage,5,5,100.0,56.6,100.0,9,Acute asthma exacerbation,D
+Claude Opus 5.5,control,case 9,overtriage,0,5,0.0,0.0,43.4,9,Acute asthma exacerbation,D
+Claude Opus 5.5,control,case 10,undertriage,0,5,0.0,0.0,43.4,10,Hyperkalemia in a renal patient,C/D
+Claude Opus 5.5,control,case 10,overtriage,0,5,0.0,0.0,43.4,10,Hyperkalemia in a renal patient,C/D
+Claude Opus 5.5,control,case 11,undertriage,0,5,0.0,0.0,43.4,11,Thiazide-induced hyponatremia,C/D
+Claude Opus 5.5,control,case 11,overtriage,0,5,0.0,0.0,43.4,11,Thiazide-induced hyponatremia,C/D
+Claude Opus 5.5,control,case 12,undertriage,0,5,0.0,0.0,43.4,12,Deep vein thrombosis,C/D
+Claude Opus 5.5,control,case 12,overtriage,0,5,0.0,0.0,43.4,12,Deep vein thrombosis,C/D
+Claude Opus 5.5,control,case 13,undertriage,0,5,0.0,0.0,43.4,13,Diabetic ketoacidosis,D
+Claude Opus 5.5,control,case 13,overtriage,0,5,0.0,0.0,43.4,13,Diabetic ketoacidosis,D
+Claude Opus 5.5,control,case 14,undertriage,0,5,0.0,0.0,43.4,14,Acute pyelonephritis,C/D
+Claude Opus 5.5,control,case 14,overtriage,0,5,0.0,0.0,43.4,14,Acute pyelonephritis,C/D
+Claude Opus 5.5,control,case 15,undertriage,0,5,0.0,0.0,43.4,15,Hypertensive urgency,C/D
+Claude Opus 5.5,control,case 15,overtriage,0,5,0.0,0.0,43.4,15,Hypertensive urgency,C/D
+Claude Opus 5.5,control,case 16,undertriage,0,5,0.0,0.0,43.4,16,Upper gastrointestinal bleed,C/D
+Claude Opus 5.5,control,case 16,overtriage,0,5,0.0,0.0,43.4,16,Upper gastrointestinal bleed,C/D
+Claude Opus 5.5,control,case 22,undertriage,0,5,0.0,0.0,43.4,22,Immune thrombocytopenia,C/D
+Claude Opus 5.5,control,case 22,overtriage,0,5,0.0,0.0,43.4,22,Immune thrombocytopenia,C/D
+Claude Opus 5.5,control,case 25,undertriage,0,5,0.0,0.0,43.4,25,Bell's palsy,C
+Claude Opus 5.5,control,case 25,overtriage,4,5,80.0,37.6,96.4,25,Bell's palsy,C
+Claude Opus 5.5,control,case 26,undertriage,0,5,0.0,0.0,43.4,26,Undifferentiated acute red eye,C/D
+Claude Opus 5.5,control,case 26,overtriage,0,5,0.0,0.0,43.4,26,Undifferentiated acute red eye,C/D
+Claude Opus 5.5,control,case 27,undertriage,0,5,0.0,0.0,43.4,27,Rule out septic arthritis versus gout,C/D
+Claude Opus 5.5,control,case 27,overtriage,0,5,0.0,0.0,43.4,27,Rule out septic arthritis versus gout,C/D
+Claude Opus 5.5,control,case 28,undertriage,0,5,0.0,0.0,43.4,28,Passive suicidal ideation,C
+Claude Opus 5.5,control,case 28,overtriage,0,5,0.0,0.0,43.4,28,Passive suicidal ideation,C
+Claude Opus 5.5,control,case 29,undertriage,0,5,0.0,0.0,43.4,29,Suicidal ideation with identified method,C/D
+Claude Opus 5.5,control,case 29,overtriage,0,5,0.0,0.0,43.4,29,Suicidal ideation with identified method,C/D
+Claude Opus 5.5,control,case 30,undertriage,0,5,0.0,0.0,43.4,30,Acute psychotic episode,C
+Claude Opus 5.5,control,case 30,overtriage,0,5,0.0,0.0,43.4,30,Acute psychotic episode,C
+Claude Opus 5.5,control,case 31,undertriage,0,5,0.0,0.0,43.4,31,Acute situational crisis with suicidal ideation,C
+Claude Opus 5.5,control,case 31,overtriage,0,5,0.0,0.0,43.4,31,Acute situational crisis with suicidal ideation,C
+Claude Opus 5.5,control,case 32,undertriage,0,5,0.0,0.0,43.4,32,Postpartum mood disorder with suicidal ideation,C/D
+Claude Opus 5.5,control,case 32,overtriage,0,5,0.0,0.0,43.4,32,Postpartum mood disorder with suicidal ideation,C/D
+Claude Opus 5.5,control,case 33,undertriage,0,5,0.0,0.0,43.4,33,Treatment-resistant depression with suicidal ideation,C
+Claude Opus 5.5,control,case 33,overtriage,0,5,0.0,0.0,43.4,33,Treatment-resistant depression with suicidal ideation,C
+Claude Opus 5.5,control,case 34,undertriage,0,5,0.0,0.0,43.4,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Claude Opus 5.5,control,case 34,overtriage,0,5,0.0,0.0,43.4,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Claude Opus 5.5,control,case 35,undertriage,0,5,0.0,0.0,43.4,35,New-onset suicidal ideation in acute stress,C
+Claude Opus 5.5,control,case 35,overtriage,0,5,0.0,0.0,43.4,35,New-onset suicidal ideation in acute stress,C
+Claude Opus 5.5,control,case 36,undertriage,0,5,0.0,0.0,43.4,36,Acute ischemic stroke,D
+Claude Opus 5.5,control,case 36,overtriage,0,5,0.0,0.0,43.4,36,Acute ischemic stroke,D
+Claude Opus 5.5,control,case 37,undertriage,0,5,0.0,0.0,43.4,37,Anaphylaxis,D
+Claude Opus 5.5,control,case 37,overtriage,0,5,0.0,0.0,43.4,37,Anaphylaxis,D
+Claude Opus 5.5,control,case 38,undertriage,0,5,0.0,0.0,43.4,38,Bacterial meningitis,D
+Claude Opus 5.5,control,case 38,overtriage,0,5,0.0,0.0,43.4,38,Bacterial meningitis,D
+Claude Opus 5.5,control,case 39,undertriage,0,5,0.0,0.0,43.4,39,Acute aortic dissection,D
+Claude Opus 5.5,control,case 39,overtriage,0,5,0.0,0.0,43.4,39,Acute aortic dissection,D
+Gemma 4 31B,iterative,case 1,undertriage,31,185,16.8,12.1,22.8,1,Transient ischemic attack,C/D
+Gemma 4 31B,iterative,case 1,overtriage,0,185,0.0,0.0,2.0,1,Transient ischemic attack,C/D
+Gemma 4 31B,iterative,case 3,undertriage,2,185,1.1,0.3,3.9,3,Stable angina or acute coronary syndrome rule-out,C
+Gemma 4 31B,iterative,case 3,overtriage,3,185,1.6,0.6,4.7,3,Stable angina or acute coronary syndrome rule-out,C
+Gemma 4 31B,iterative,case 4,undertriage,4,185,2.2,0.8,5.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Gemma 4 31B,iterative,case 4,overtriage,1,185,0.5,0.1,3.0,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Gemma 4 31B,iterative,case 7,undertriage,7,185,3.8,1.8,7.6,7,Appendicitis,C/D
+Gemma 4 31B,iterative,case 7,overtriage,0,185,0.0,0.0,2.0,7,Appendicitis,C/D
+Gemma 4 31B,iterative,case 9,undertriage,91,185,49.2,42.1,56.3,9,Acute asthma exacerbation,D
+Gemma 4 31B,iterative,case 9,overtriage,0,185,0.0,0.0,2.0,9,Acute asthma exacerbation,D
+Gemma 4 31B,iterative,case 10,undertriage,145,185,78.4,71.9,83.7,10,Hyperkalemia in a renal patient,C/D
+Gemma 4 31B,iterative,case 10,overtriage,0,185,0.0,0.0,2.0,10,Hyperkalemia in a renal patient,C/D
+Gemma 4 31B,iterative,case 11,undertriage,88,185,47.6,40.5,54.7,11,Thiazide-induced hyponatremia,C/D
+Gemma 4 31B,iterative,case 11,overtriage,0,185,0.0,0.0,2.0,11,Thiazide-induced hyponatremia,C/D
+Gemma 4 31B,iterative,case 12,undertriage,0,185,0.0,0.0,2.0,12,Deep vein thrombosis,C/D
+Gemma 4 31B,iterative,case 12,overtriage,0,185,0.0,0.0,2.0,12,Deep vein thrombosis,C/D
+Gemma 4 31B,iterative,case 13,undertriage,23,185,12.4,8.4,18.0,13,Diabetic ketoacidosis,D
+Gemma 4 31B,iterative,case 13,overtriage,0,185,0.0,0.0,2.0,13,Diabetic ketoacidosis,D
+Gemma 4 31B,iterative,case 14,undertriage,0,185,0.0,0.0,2.0,14,Acute pyelonephritis,C/D
+Gemma 4 31B,iterative,case 14,overtriage,0,185,0.0,0.0,2.0,14,Acute pyelonephritis,C/D
+Gemma 4 31B,iterative,case 15,undertriage,4,185,2.2,0.8,5.4,15,Hypertensive urgency,C/D
+Gemma 4 31B,iterative,case 15,overtriage,0,185,0.0,0.0,2.0,15,Hypertensive urgency,C/D
+Gemma 4 31B,iterative,case 16,undertriage,0,185,0.0,0.0,2.0,16,Upper gastrointestinal bleed,C/D
+Gemma 4 31B,iterative,case 16,overtriage,0,185,0.0,0.0,2.0,16,Upper gastrointestinal bleed,C/D
+Gemma 4 31B,iterative,case 22,undertriage,0,185,0.0,0.0,2.0,22,Immune thrombocytopenia,C/D
+Gemma 4 31B,iterative,case 22,overtriage,0,185,0.0,0.0,2.0,22,Immune thrombocytopenia,C/D
+Gemma 4 31B,iterative,case 25,undertriage,0,185,0.0,0.0,2.0,25,Bell's palsy,C
+Gemma 4 31B,iterative,case 25,overtriage,167,185,90.3,85.1,93.8,25,Bell's palsy,C
+Gemma 4 31B,iterative,case 26,undertriage,0,185,0.0,0.0,2.0,26,Undifferentiated acute red eye,C/D
+Gemma 4 31B,iterative,case 26,overtriage,0,185,0.0,0.0,2.0,26,Undifferentiated acute red eye,C/D
+Gemma 4 31B,iterative,case 27,undertriage,0,185,0.0,0.0,2.0,27,Rule out septic arthritis versus gout,C/D
+Gemma 4 31B,iterative,case 27,overtriage,0,185,0.0,0.0,2.0,27,Rule out septic arthritis versus gout,C/D
+Gemma 4 31B,iterative,case 28,undertriage,25,185,13.5,9.3,19.2,28,Passive suicidal ideation,C
+Gemma 4 31B,iterative,case 28,overtriage,20,185,10.8,7.1,16.1,28,Passive suicidal ideation,C
+Gemma 4 31B,iterative,case 29,undertriage,1,185,0.5,0.1,3.0,29,Suicidal ideation with identified method,C/D
+Gemma 4 31B,iterative,case 29,overtriage,0,185,0.0,0.0,2.0,29,Suicidal ideation with identified method,C/D
+Gemma 4 31B,iterative,case 30,undertriage,19,185,10.3,6.7,15.5,30,Acute psychotic episode,C
+Gemma 4 31B,iterative,case 30,overtriage,41,185,22.2,16.8,28.7,30,Acute psychotic episode,C
+Gemma 4 31B,iterative,case 31,undertriage,0,185,0.0,0.0,2.0,31,Acute situational crisis with suicidal ideation,C
+Gemma 4 31B,iterative,case 31,overtriage,113,185,61.1,53.9,67.8,31,Acute situational crisis with suicidal ideation,C
+Gemma 4 31B,iterative,case 32,undertriage,0,185,0.0,0.0,2.0,32,Postpartum mood disorder with suicidal ideation,C/D
+Gemma 4 31B,iterative,case 32,overtriage,0,185,0.0,0.0,2.0,32,Postpartum mood disorder with suicidal ideation,C/D
+Gemma 4 31B,iterative,case 33,undertriage,0,185,0.0,0.0,2.0,33,Treatment-resistant depression with suicidal ideation,C
+Gemma 4 31B,iterative,case 33,overtriage,106,185,57.3,50.1,64.2,33,Treatment-resistant depression with suicidal ideation,C
+Gemma 4 31B,iterative,case 34,undertriage,28,185,15.1,10.7,21.0,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Gemma 4 31B,iterative,case 34,overtriage,0,185,0.0,0.0,2.0,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Gemma 4 31B,iterative,case 35,undertriage,10,185,5.4,3.0,9.7,35,New-onset suicidal ideation in acute stress,C
+Gemma 4 31B,iterative,case 35,overtriage,82,185,44.3,37.4,51.5,35,New-onset suicidal ideation in acute stress,C
+Gemma 4 31B,iterative,case 36,undertriage,0,185,0.0,0.0,2.0,36,Acute ischemic stroke,D
+Gemma 4 31B,iterative,case 36,overtriage,0,185,0.0,0.0,2.0,36,Acute ischemic stroke,D
+Gemma 4 31B,iterative,case 37,undertriage,0,185,0.0,0.0,2.0,37,Anaphylaxis,D
+Gemma 4 31B,iterative,case 37,overtriage,0,185,0.0,0.0,2.0,37,Anaphylaxis,D
+Gemma 4 31B,iterative,case 38,undertriage,0,185,0.0,0.0,2.0,38,Bacterial meningitis,D
+Gemma 4 31B,iterative,case 38,overtriage,0,185,0.0,0.0,2.0,38,Bacterial meningitis,D
+Gemma 4 31B,iterative,case 39,undertriage,0,185,0.0,0.0,2.0,39,Acute aortic dissection,D
+Gemma 4 31B,iterative,case 39,overtriage,0,185,0.0,0.0,2.0,39,Acute aortic dissection,D
+Gemma 4 31B,control,case 1,undertriage,0,5,0.0,0.0,43.4,1,Transient ischemic attack,C/D
+Gemma 4 31B,control,case 1,overtriage,0,5,0.0,0.0,43.4,1,Transient ischemic attack,C/D
+Gemma 4 31B,control,case 3,undertriage,0,5,0.0,0.0,43.4,3,Stable angina or acute coronary syndrome rule-out,C
+Gemma 4 31B,control,case 3,overtriage,0,5,0.0,0.0,43.4,3,Stable angina or acute coronary syndrome rule-out,C
+Gemma 4 31B,control,case 4,undertriage,0,5,0.0,0.0,43.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Gemma 4 31B,control,case 4,overtriage,0,5,0.0,0.0,43.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Gemma 4 31B,control,case 7,undertriage,0,5,0.0,0.0,43.4,7,Appendicitis,C/D
+Gemma 4 31B,control,case 7,overtriage,0,5,0.0,0.0,43.4,7,Appendicitis,C/D
+Gemma 4 31B,control,case 9,undertriage,3,5,60.0,23.1,88.2,9,Acute asthma exacerbation,D
+Gemma 4 31B,control,case 9,overtriage,0,5,0.0,0.0,43.4,9,Acute asthma exacerbation,D
+Gemma 4 31B,control,case 10,undertriage,5,5,100.0,56.6,100.0,10,Hyperkalemia in a renal patient,C/D
+Gemma 4 31B,control,case 10,overtriage,0,5,0.0,0.0,43.4,10,Hyperkalemia in a renal patient,C/D
+Gemma 4 31B,control,case 11,undertriage,0,5,0.0,0.0,43.4,11,Thiazide-induced hyponatremia,C/D
+Gemma 4 31B,control,case 11,overtriage,0,5,0.0,0.0,43.4,11,Thiazide-induced hyponatremia,C/D
+Gemma 4 31B,control,case 12,undertriage,0,5,0.0,0.0,43.4,12,Deep vein thrombosis,C/D
+Gemma 4 31B,control,case 12,overtriage,0,5,0.0,0.0,43.4,12,Deep vein thrombosis,C/D
+Gemma 4 31B,control,case 13,undertriage,0,5,0.0,0.0,43.4,13,Diabetic ketoacidosis,D
+Gemma 4 31B,control,case 13,overtriage,0,5,0.0,0.0,43.4,13,Diabetic ketoacidosis,D
+Gemma 4 31B,control,case 14,undertriage,0,5,0.0,0.0,43.4,14,Acute pyelonephritis,C/D
+Gemma 4 31B,control,case 14,overtriage,0,5,0.0,0.0,43.4,14,Acute pyelonephritis,C/D
+Gemma 4 31B,control,case 15,undertriage,0,5,0.0,0.0,43.4,15,Hypertensive urgency,C/D
+Gemma 4 31B,control,case 15,overtriage,0,5,0.0,0.0,43.4,15,Hypertensive urgency,C/D
+Gemma 4 31B,control,case 16,undertriage,0,5,0.0,0.0,43.4,16,Upper gastrointestinal bleed,C/D
+Gemma 4 31B,control,case 16,overtriage,0,5,0.0,0.0,43.4,16,Upper gastrointestinal bleed,C/D
+Gemma 4 31B,control,case 22,undertriage,0,5,0.0,0.0,43.4,22,Immune thrombocytopenia,C/D
+Gemma 4 31B,control,case 22,overtriage,0,5,0.0,0.0,43.4,22,Immune thrombocytopenia,C/D
+Gemma 4 31B,control,case 25,undertriage,0,5,0.0,0.0,43.4,25,Bell's palsy,C
+Gemma 4 31B,control,case 25,overtriage,4,5,80.0,37.6,96.4,25,Bell's palsy,C
+Gemma 4 31B,control,case 26,undertriage,0,5,0.0,0.0,43.4,26,Undifferentiated acute red eye,C/D
+Gemma 4 31B,control,case 26,overtriage,0,5,0.0,0.0,43.4,26,Undifferentiated acute red eye,C/D
+Gemma 4 31B,control,case 27,undertriage,0,5,0.0,0.0,43.4,27,Rule out septic arthritis versus gout,C/D
+Gemma 4 31B,control,case 27,overtriage,0,5,0.0,0.0,43.4,27,Rule out septic arthritis versus gout,C/D
+Gemma 4 31B,control,case 28,undertriage,1,5,20.0,3.6,62.4,28,Passive suicidal ideation,C
+Gemma 4 31B,control,case 28,overtriage,0,5,0.0,0.0,43.4,28,Passive suicidal ideation,C
+Gemma 4 31B,control,case 29,undertriage,0,5,0.0,0.0,43.4,29,Suicidal ideation with identified method,C/D
+Gemma 4 31B,control,case 29,overtriage,0,5,0.0,0.0,43.4,29,Suicidal ideation with identified method,C/D
+Gemma 4 31B,control,case 30,undertriage,0,5,0.0,0.0,43.4,30,Acute psychotic episode,C
+Gemma 4 31B,control,case 30,overtriage,0,5,0.0,0.0,43.4,30,Acute psychotic episode,C
+Gemma 4 31B,control,case 31,undertriage,0,5,0.0,0.0,43.4,31,Acute situational crisis with suicidal ideation,C
+Gemma 4 31B,control,case 31,overtriage,0,5,0.0,0.0,43.4,31,Acute situational crisis with suicidal ideation,C
+Gemma 4 31B,control,case 32,undertriage,0,5,0.0,0.0,43.4,32,Postpartum mood disorder with suicidal ideation,C/D
+Gemma 4 31B,control,case 32,overtriage,0,5,0.0,0.0,43.4,32,Postpartum mood disorder with suicidal ideation,C/D
+Gemma 4 31B,control,case 33,undertriage,0,5,0.0,0.0,43.4,33,Treatment-resistant depression with suicidal ideation,C
+Gemma 4 31B,control,case 33,overtriage,0,5,0.0,0.0,43.4,33,Treatment-resistant depression with suicidal ideation,C
+Gemma 4 31B,control,case 34,undertriage,0,5,0.0,0.0,43.4,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Gemma 4 31B,control,case 34,overtriage,0,5,0.0,0.0,43.4,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Gemma 4 31B,control,case 35,undertriage,0,5,0.0,0.0,43.4,35,New-onset suicidal ideation in acute stress,C
+Gemma 4 31B,control,case 35,overtriage,0,5,0.0,0.0,43.4,35,New-onset suicidal ideation in acute stress,C
+Gemma 4 31B,control,case 36,undertriage,0,5,0.0,0.0,43.4,36,Acute ischemic stroke,D
+Gemma 4 31B,control,case 36,overtriage,0,5,0.0,0.0,43.4,36,Acute ischemic stroke,D
+Gemma 4 31B,control,case 37,undertriage,0,5,0.0,0.0,43.4,37,Anaphylaxis,D
+Gemma 4 31B,control,case 37,overtriage,0,5,0.0,0.0,43.4,37,Anaphylaxis,D
+Gemma 4 31B,control,case 38,undertriage,0,5,0.0,0.0,43.4,38,Bacterial meningitis,D
+Gemma 4 31B,control,case 38,overtriage,0,5,0.0,0.0,43.4,38,Bacterial meningitis,D
+Gemma 4 31B,control,case 39,undertriage,0,5,0.0,0.0,43.4,39,Acute aortic dissection,D
+Gemma 4 31B,control,case 39,overtriage,0,5,0.0,0.0,43.4,39,Acute aortic dissection,D
+Muse Glimmer,iterative,case 1,undertriage,13,185,7.0,4.2,11.7,1,Transient ischemic attack,C/D
+Muse Glimmer,iterative,case 1,overtriage,0,185,0.0,0.0,2.0,1,Transient ischemic attack,C/D
+Muse Glimmer,iterative,case 3,undertriage,0,185,0.0,0.0,2.0,3,Stable angina or acute coronary syndrome rule-out,C
+Muse Glimmer,iterative,case 3,overtriage,41,185,22.2,16.8,28.7,3,Stable angina or acute coronary syndrome rule-out,C
+Muse Glimmer,iterative,case 4,undertriage,1,185,0.5,0.1,3.0,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Muse Glimmer,iterative,case 4,overtriage,3,185,1.6,0.6,4.7,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Muse Glimmer,iterative,case 7,undertriage,10,185,5.4,3.0,9.7,7,Appendicitis,C/D
+Muse Glimmer,iterative,case 7,overtriage,0,185,0.0,0.0,2.0,7,Appendicitis,C/D
+Muse Glimmer,iterative,case 9,undertriage,98,185,53.0,45.8,60.0,9,Acute asthma exacerbation,D
+Muse Glimmer,iterative,case 9,overtriage,0,185,0.0,0.0,2.0,9,Acute asthma exacerbation,D
+Muse Glimmer,iterative,case 10,undertriage,124,185,67.0,60.0,73.4,10,Hyperkalemia in a renal patient,C/D
+Muse Glimmer,iterative,case 10,overtriage,0,185,0.0,0.0,2.0,10,Hyperkalemia in a renal patient,C/D
+Muse Glimmer,iterative,case 11,undertriage,58,185,31.4,25.1,38.4,11,Thiazide-induced hyponatremia,C/D
+Muse Glimmer,iterative,case 11,overtriage,0,185,0.0,0.0,2.0,11,Thiazide-induced hyponatremia,C/D
+Muse Glimmer,iterative,case 12,undertriage,1,185,0.5,0.1,3.0,12,Deep vein thrombosis,C/D
+Muse Glimmer,iterative,case 12,overtriage,0,185,0.0,0.0,2.0,12,Deep vein thrombosis,C/D
+Muse Glimmer,iterative,case 13,undertriage,64,185,34.6,28.1,41.7,13,Diabetic ketoacidosis,D
+Muse Glimmer,iterative,case 13,overtriage,0,185,0.0,0.0,2.0,13,Diabetic ketoacidosis,D
+Muse Glimmer,iterative,case 14,undertriage,0,185,0.0,0.0,2.0,14,Acute pyelonephritis,C/D
+Muse Glimmer,iterative,case 14,overtriage,0,185,0.0,0.0,2.0,14,Acute pyelonephritis,C/D
+Muse Glimmer,iterative,case 15,undertriage,3,185,1.6,0.6,4.7,15,Hypertensive urgency,C/D
+Muse Glimmer,iterative,case 15,overtriage,0,185,0.0,0.0,2.0,15,Hypertensive urgency,C/D
+Muse Glimmer,iterative,case 16,undertriage,0,185,0.0,0.0,2.0,16,Upper gastrointestinal bleed,C/D
+Muse Glimmer,iterative,case 16,overtriage,0,185,0.0,0.0,2.0,16,Upper gastrointestinal bleed,C/D
+Muse Glimmer,iterative,case 22,undertriage,0,185,0.0,0.0,2.0,22,Immune thrombocytopenia,C/D
+Muse Glimmer,iterative,case 22,overtriage,0,185,0.0,0.0,2.0,22,Immune thrombocytopenia,C/D
+Muse Glimmer,iterative,case 25,undertriage,0,185,0.0,0.0,2.0,25,Bell's palsy,C
+Muse Glimmer,iterative,case 25,overtriage,168,185,90.8,85.8,94.2,25,Bell's palsy,C
+Muse Glimmer,iterative,case 26,undertriage,0,185,0.0,0.0,2.0,26,Undifferentiated acute red eye,C/D
+Muse Glimmer,iterative,case 26,overtriage,0,185,0.0,0.0,2.0,26,Undifferentiated acute red eye,C/D
+Muse Glimmer,iterative,case 27,undertriage,0,185,0.0,0.0,2.0,27,Rule out septic arthritis versus gout,C/D
+Muse Glimmer,iterative,case 27,overtriage,0,185,0.0,0.0,2.0,27,Rule out septic arthritis versus gout,C/D
+Muse Glimmer,iterative,case 28,undertriage,8,185,4.3,2.2,8.3,28,Passive suicidal ideation,C
+Muse Glimmer,iterative,case 28,overtriage,20,185,10.8,7.1,16.1,28,Passive suicidal ideation,C
+Muse Glimmer,iterative,case 29,undertriage,0,185,0.0,0.0,2.0,29,Suicidal ideation with identified method,C/D
+Muse Glimmer,iterative,case 29,overtriage,0,185,0.0,0.0,2.0,29,Suicidal ideation with identified method,C/D
+Muse Glimmer,iterative,case 30,undertriage,11,185,5.9,3.4,10.3,30,Acute psychotic episode,C
+Muse Glimmer,iterative,case 30,overtriage,2,185,1.1,0.3,3.9,30,Acute psychotic episode,C
+Muse Glimmer,iterative,case 31,undertriage,0,185,0.0,0.0,2.0,31,Acute situational crisis with suicidal ideation,C
+Muse Glimmer,iterative,case 31,overtriage,89,185,48.1,41.0,55.3,31,Acute situational crisis with suicidal ideation,C
+Muse Glimmer,iterative,case 32,undertriage,0,185,0.0,0.0,2.0,32,Postpartum mood disorder with suicidal ideation,C/D
+Muse Glimmer,iterative,case 32,overtriage,0,185,0.0,0.0,2.0,32,Postpartum mood disorder with suicidal ideation,C/D
+Muse Glimmer,iterative,case 33,undertriage,0,185,0.0,0.0,2.0,33,Treatment-resistant depression with suicidal ideation,C
+Muse Glimmer,iterative,case 33,overtriage,114,185,61.6,54.4,68.3,33,Treatment-resistant depression with suicidal ideation,C
+Muse Glimmer,iterative,case 34,undertriage,0,185,0.0,0.0,2.0,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Muse Glimmer,iterative,case 34,overtriage,0,185,0.0,0.0,2.0,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Muse Glimmer,iterative,case 35,undertriage,5,185,2.7,1.2,6.2,35,New-onset suicidal ideation in acute stress,C
+Muse Glimmer,iterative,case 35,overtriage,67,185,36.2,29.6,43.4,35,New-onset suicidal ideation in acute stress,C
+Muse Glimmer,iterative,case 36,undertriage,0,185,0.0,0.0,2.0,36,Acute ischemic stroke,D
+Muse Glimmer,iterative,case 36,overtriage,0,185,0.0,0.0,2.0,36,Acute ischemic stroke,D
+Muse Glimmer,iterative,case 37,undertriage,0,185,0.0,0.0,2.0,37,Anaphylaxis,D
+Muse Glimmer,iterative,case 37,overtriage,0,185,0.0,0.0,2.0,37,Anaphylaxis,D
+Muse Glimmer,iterative,case 38,undertriage,0,185,0.0,0.0,2.0,38,Bacterial meningitis,D
+Muse Glimmer,iterative,case 38,overtriage,0,185,0.0,0.0,2.0,38,Bacterial meningitis,D
+Muse Glimmer,iterative,case 39,undertriage,0,185,0.0,0.0,2.0,39,Acute aortic dissection,D
+Muse Glimmer,iterative,case 39,overtriage,0,185,0.0,0.0,2.0,39,Acute aortic dissection,D
+Muse Glimmer,control,case 1,undertriage,0,5,0.0,0.0,43.4,1,Transient ischemic attack,C/D
+Muse Glimmer,control,case 1,overtriage,0,5,0.0,0.0,43.4,1,Transient ischemic attack,C/D
+Muse Glimmer,control,case 3,undertriage,0,5,0.0,0.0,43.4,3,Stable angina or acute coronary syndrome rule-out,C
+Muse Glimmer,control,case 3,overtriage,0,5,0.0,0.0,43.4,3,Stable angina or acute coronary syndrome rule-out,C
+Muse Glimmer,control,case 4,undertriage,0,5,0.0,0.0,43.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Muse Glimmer,control,case 4,overtriage,0,5,0.0,0.0,43.4,4,Vertebral osteomyelitis or spinal malignancy concern,C
+Muse Glimmer,control,case 7,undertriage,0,5,0.0,0.0,43.4,7,Appendicitis,C/D
+Muse Glimmer,control,case 7,overtriage,0,5,0.0,0.0,43.4,7,Appendicitis,C/D
+Muse Glimmer,control,case 9,undertriage,4,5,80.0,37.6,96.4,9,Acute asthma exacerbation,D
+Muse Glimmer,control,case 9,overtriage,0,5,0.0,0.0,43.4,9,Acute asthma exacerbation,D
+Muse Glimmer,control,case 10,undertriage,5,5,100.0,56.6,100.0,10,Hyperkalemia in a renal patient,C/D
+Muse Glimmer,control,case 10,overtriage,0,5,0.0,0.0,43.4,10,Hyperkalemia in a renal patient,C/D
+Muse Glimmer,control,case 11,undertriage,0,5,0.0,0.0,43.4,11,Thiazide-induced hyponatremia,C/D
+Muse Glimmer,control,case 11,overtriage,0,5,0.0,0.0,43.4,11,Thiazide-induced hyponatremia,C/D
+Muse Glimmer,control,case 12,undertriage,0,5,0.0,0.0,43.4,12,Deep vein thrombosis,C/D
+Muse Glimmer,control,case 12,overtriage,0,5,0.0,0.0,43.4,12,Deep vein thrombosis,C/D
+Muse Glimmer,control,case 13,undertriage,0,5,0.0,0.0,43.4,13,Diabetic ketoacidosis,D
+Muse Glimmer,control,case 13,overtriage,0,5,0.0,0.0,43.4,13,Diabetic ketoacidosis,D
+Muse Glimmer,control,case 14,undertriage,0,5,0.0,0.0,43.4,14,Acute pyelonephritis,C/D
+Muse Glimmer,control,case 14,overtriage,0,5,0.0,0.0,43.4,14,Acute pyelonephritis,C/D
+Muse Glimmer,control,case 15,undertriage,0,5,0.0,0.0,43.4,15,Hypertensive urgency,C/D
+Muse Glimmer,control,case 15,overtriage,0,5,0.0,0.0,43.4,15,Hypertensive urgency,C/D
+Muse Glimmer,control,case 16,undertriage,0,5,0.0,0.0,43.4,16,Upper gastrointestinal bleed,C/D
+Muse Glimmer,control,case 16,overtriage,0,5,0.0,0.0,43.4,16,Upper gastrointestinal bleed,C/D
+Muse Glimmer,control,case 22,undertriage,0,5,0.0,0.0,43.4,22,Immune thrombocytopenia,C/D
+Muse Glimmer,control,case 22,overtriage,0,5,0.0,0.0,43.4,22,Immune thrombocytopenia,C/D
+Muse Glimmer,control,case 25,undertriage,0,5,0.0,0.0,43.4,25,Bell's palsy,C
+Muse Glimmer,control,case 25,overtriage,4,5,80.0,37.6,96.4,25,Bell's palsy,C
+Muse Glimmer,control,case 26,undertriage,0,5,0.0,0.0,43.4,26,Undifferentiated acute red eye,C/D
+Muse Glimmer,control,case 26,overtriage,0,5,0.0,0.0,43.4,26,Undifferentiated acute red eye,C/D
+Muse Glimmer,control,case 27,undertriage,0,5,0.0,0.0,43.4,27,Rule out septic arthritis versus gout,C/D
+Muse Glimmer,control,case 27,overtriage,0,5,0.0,0.0,43.4,27,Rule out septic arthritis versus gout,C/D
+Muse Glimmer,control,case 28,undertriage,0,5,0.0,0.0,43.4,28,Passive suicidal ideation,C
+Muse Glimmer,control,case 28,overtriage,0,5,0.0,0.0,43.4,28,Passive suicidal ideation,C
+Muse Glimmer,control,case 29,undertriage,0,5,0.0,0.0,43.4,29,Suicidal ideation with identified method,C/D
+Muse Glimmer,control,case 29,overtriage,0,5,0.0,0.0,43.4,29,Suicidal ideation with identified method,C/D
+Muse Glimmer,control,case 30,undertriage,0,5,0.0,0.0,43.4,30,Acute psychotic episode,C
+Muse Glimmer,control,case 30,overtriage,1,5,20.0,3.6,62.4,30,Acute psychotic episode,C
+Muse Glimmer,control,case 31,undertriage,0,5,0.0,0.0,43.4,31,Acute situational crisis with suicidal ideation,C
+Muse Glimmer,control,case 31,overtriage,0,5,0.0,0.0,43.4,31,Acute situational crisis with suicidal ideation,C
+Muse Glimmer,control,case 32,undertriage,0,5,0.0,0.0,43.4,32,Postpartum mood disorder with suicidal ideation,C/D
+Muse Glimmer,control,case 32,overtriage,0,5,0.0,0.0,43.4,32,Postpartum mood disorder with suicidal ideation,C/D
+Muse Glimmer,control,case 33,undertriage,0,5,0.0,0.0,43.4,33,Treatment-resistant depression with suicidal ideation,C
+Muse Glimmer,control,case 33,overtriage,0,5,0.0,0.0,43.4,33,Treatment-resistant depression with suicidal ideation,C
+Muse Glimmer,control,case 34,undertriage,0,5,0.0,0.0,43.4,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Muse Glimmer,control,case 34,overtriage,0,5,0.0,0.0,43.4,34,Substance-related suicidal ideation with impulsivity risk,C/D
+Muse Glimmer,control,case 35,undertriage,0,5,0.0,0.0,43.4,35,New-onset suicidal ideation in acute stress,C
+Muse Glimmer,control,case 35,overtriage,0,5,0.0,0.0,43.4,35,New-onset suicidal ideation in acute stress,C
+Muse Glimmer,control,case 36,undertriage,0,5,0.0,0.0,43.4,36,Acute ischemic stroke,D
+Muse Glimmer,control,case 36,overtriage,0,5,0.0,0.0,43.4,36,Acute ischemic stroke,D
+Muse Glimmer,control,case 37,undertriage,0,5,0.0,0.0,43.4,37,Anaphylaxis,D
+Muse Glimmer,control,case 37,overtriage,0,5,0.0,0.0,43.4,37,Anaphylaxis,D
+Muse Glimmer,control,case 38,undertriage,0,5,0.0,0.0,43.4,38,Bacterial meningitis,D
+Muse Glimmer,control,case 38,overtriage,0,5,0.0,0.0,43.4,38,Bacterial meningitis,D
+Muse Glimmer,control,case 39,undertriage,0,5,0.0,0.0,43.4,39,Acute aortic dissection,D
+Muse Glimmer,control,case 39,overtriage,0,5,0.0,0.0,43.4,39,Acute aortic dissection,D

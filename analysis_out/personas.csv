@@ -1,0 +1,371 @@
+model,arm,slice,outcome,events,trials,percent,ci_low,ci_high,scenarios_with_event,scenarios_with_3,personality,cefr,recall,cognition
+GPT-5-mini,iterative,cefr_A_pers_distrust_recall_high_dazed_normal,undertriage,17,140,12.1,7.7,18.6,6,4,distrust,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_distrust_recall_high_dazed_normal,overtriage,10,140,7.1,3.9,12.6,3,3,distrust,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_distrust_recall_low_dazed_normal,undertriage,17,140,12.1,7.7,18.6,7,3,distrust,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_distrust_recall_low_dazed_normal,overtriage,7,140,5.0,2.4,10.0,4,0,distrust,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_impatient_recall_high_dazed_normal,undertriage,16,140,11.4,7.2,17.8,5,3,impatient,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_impatient_recall_high_dazed_normal,overtriage,11,140,7.9,4.4,13.5,5,2,impatient,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_impatient_recall_low_dazed_normal,undertriage,16,140,11.4,7.2,17.8,4,3,impatient,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_impatient_recall_low_dazed_normal,overtriage,14,140,10.0,6.1,16.1,4,4,impatient,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_overanxious_recall_high_dazed_normal,undertriage,4,140,2.9,1.1,7.1,3,0,overanxious,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_overanxious_recall_high_dazed_normal,overtriage,11,140,7.9,4.4,13.5,3,3,overanxious,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_overanxious_recall_low_dazed_normal,undertriage,7,140,5.0,2.4,10.0,3,1,overanxious,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_overanxious_recall_low_dazed_normal,overtriage,14,140,10.0,6.1,16.1,4,3,overanxious,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_plain_recall_high_dazed_normal,undertriage,19,140,13.6,8.9,20.2,6,4,plain,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_plain_recall_high_dazed_normal,overtriage,6,140,4.3,2.0,9.0,3,1,plain,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_plain_recall_low_dazed_normal,undertriage,17,140,12.1,7.7,18.6,6,3,plain,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_plain_recall_low_dazed_normal,overtriage,9,140,6.4,3.4,11.8,4,2,plain,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_pleasing_recall_high_dazed_normal,undertriage,22,140,15.7,10.6,22.6,7,4,pleasing,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_pleasing_recall_high_dazed_normal,overtriage,1,140,0.7,0.1,3.9,1,0,pleasing,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_pleasing_recall_low_dazed_normal,undertriage,27,140,19.3,13.6,26.6,11,3,pleasing,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_pleasing_recall_low_dazed_normal,overtriage,3,140,2.1,0.7,6.1,2,0,pleasing,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_verbose_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,4,2,verbose,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_verbose_recall_high_dazed_normal,overtriage,2,140,1.4,0.4,5.1,2,0,verbose,A,high,normal
+GPT-5-mini,iterative,cefr_A_pers_verbose_recall_low_dazed_normal,undertriage,12,140,8.6,5.0,14.4,5,2,verbose,A,low,normal
+GPT-5-mini,iterative,cefr_A_pers_verbose_recall_low_dazed_normal,overtriage,4,140,2.9,1.1,7.1,2,1,verbose,A,low,normal
+GPT-5-mini,iterative,cefr_B_pers_distrust_recall_high_dazed_normal,undertriage,14,140,10.0,6.1,16.1,6,2,distrust,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_distrust_recall_high_dazed_normal,overtriage,1,140,0.7,0.1,3.9,1,0,distrust,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_distrust_recall_low_dazed_normal,undertriage,18,140,12.9,8.3,19.4,6,4,distrust,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_distrust_recall_low_dazed_normal,overtriage,2,140,1.4,0.4,5.1,2,0,distrust,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_impatient_recall_high_dazed_normal,undertriage,11,140,7.9,4.4,13.5,3,3,impatient,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_impatient_recall_high_dazed_normal,overtriage,6,140,4.3,2.0,9.0,2,2,impatient,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_impatient_recall_low_dazed_normal,undertriage,17,140,12.1,7.7,18.6,5,3,impatient,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_impatient_recall_low_dazed_normal,overtriage,6,140,4.3,2.0,9.0,4,0,impatient,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_overanxious_recall_high_dazed_normal,undertriage,3,140,2.1,0.7,6.1,3,0,overanxious,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_overanxious_recall_high_dazed_normal,overtriage,10,140,7.1,3.9,12.6,4,2,overanxious,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_overanxious_recall_low_dazed_normal,undertriage,6,140,4.3,2.0,9.0,4,0,overanxious,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_overanxious_recall_low_dazed_normal,overtriage,6,140,4.3,2.0,9.0,3,1,overanxious,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_plain_recall_high_dazed_high,undertriage,12,140,8.6,5.0,14.4,4,3,plain,B,high,high
+GPT-5-mini,iterative,cefr_B_pers_plain_recall_high_dazed_high,overtriage,8,140,5.7,2.9,10.9,5,1,plain,B,high,high
+GPT-5-mini,iterative,cefr_B_pers_plain_recall_high_dazed_normal,undertriage,11,140,7.9,4.4,13.5,4,2,plain,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_plain_recall_high_dazed_normal,overtriage,2,140,1.4,0.4,5.1,2,0,plain,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_plain_recall_low_dazed_normal,undertriage,16,140,11.4,7.2,17.8,5,3,plain,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_plain_recall_low_dazed_normal,overtriage,1,140,0.7,0.1,3.9,1,0,plain,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_pleasing_recall_high_dazed_normal,undertriage,29,140,20.7,14.8,28.2,8,6,pleasing,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_pleasing_recall_high_dazed_normal,overtriage,3,140,2.1,0.7,6.1,1,1,pleasing,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_pleasing_recall_low_dazed_normal,undertriage,29,140,20.7,14.8,28.2,10,5,pleasing,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_pleasing_recall_low_dazed_normal,overtriage,3,140,2.1,0.7,6.1,1,1,pleasing,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_verbose_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,4,1,verbose,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_verbose_recall_high_dazed_normal,overtriage,1,140,0.7,0.1,3.9,1,0,verbose,B,high,normal
+GPT-5-mini,iterative,cefr_B_pers_verbose_recall_low_dazed_normal,undertriage,14,140,10.0,6.1,16.1,4,3,verbose,B,low,normal
+GPT-5-mini,iterative,cefr_B_pers_verbose_recall_low_dazed_normal,overtriage,0,140,0.0,0.0,2.7,0,0,verbose,B,low,normal
+GPT-5-mini,iterative,cefr_C_pers_distrust_recall_high_dazed_normal,undertriage,15,140,10.7,6.6,16.9,6,2,distrust,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_distrust_recall_high_dazed_normal,overtriage,4,140,2.9,1.1,7.1,3,0,distrust,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_distrust_recall_low_dazed_normal,undertriage,13,140,9.3,5.5,15.2,4,3,distrust,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_distrust_recall_low_dazed_normal,overtriage,6,140,4.3,2.0,9.0,3,1,distrust,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_impatient_recall_high_dazed_normal,undertriage,15,140,10.7,6.6,16.9,4,4,impatient,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_impatient_recall_high_dazed_normal,overtriage,2,140,1.4,0.4,5.1,1,0,impatient,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_impatient_recall_low_dazed_normal,undertriage,16,140,11.4,7.2,17.8,4,3,impatient,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_impatient_recall_low_dazed_normal,overtriage,5,140,3.6,1.5,8.1,2,1,impatient,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_overanxious_recall_high_dazed_normal,undertriage,7,140,5.0,2.4,10.0,3,1,overanxious,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_overanxious_recall_high_dazed_normal,overtriage,6,140,4.3,2.0,9.0,3,1,overanxious,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_overanxious_recall_low_dazed_normal,undertriage,7,140,5.0,2.4,10.0,4,1,overanxious,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_overanxious_recall_low_dazed_normal,overtriage,9,140,6.4,3.4,11.8,5,1,overanxious,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_plain_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,4,1,plain,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_plain_recall_high_dazed_normal,overtriage,1,140,0.7,0.1,3.9,1,0,plain,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_plain_recall_low_dazed_normal,undertriage,12,140,8.6,5.0,14.4,5,2,plain,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_plain_recall_low_dazed_normal,overtriage,0,140,0.0,0.0,2.7,0,0,plain,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_pleasing_recall_high_dazed_normal,undertriage,25,140,17.9,12.4,25.0,10,4,pleasing,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_pleasing_recall_high_dazed_normal,overtriage,1,140,0.7,0.1,3.9,1,0,pleasing,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_pleasing_recall_low_dazed_normal,undertriage,34,140,24.3,17.9,32.0,12,6,pleasing,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_pleasing_recall_low_dazed_normal,overtriage,1,140,0.7,0.1,3.9,1,0,pleasing,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_verbose_recall_high_dazed_normal,undertriage,11,140,7.9,4.4,13.5,5,1,verbose,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_verbose_recall_high_dazed_normal,overtriage,0,140,0.0,0.0,2.7,0,0,verbose,C,high,normal
+GPT-5-mini,iterative,cefr_C_pers_verbose_recall_low_dazed_normal,undertriage,9,140,6.4,3.4,11.8,3,2,verbose,C,low,normal
+GPT-5-mini,iterative,cefr_C_pers_verbose_recall_low_dazed_normal,overtriage,1,140,0.7,0.1,3.9,1,0,verbose,C,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_distrust_recall_high_dazed_normal,undertriage,7,140,5.0,2.4,10.0,3,2,distrust,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_distrust_recall_high_dazed_normal,overtriage,18,140,12.9,8.3,19.4,5,4,distrust,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_distrust_recall_low_dazed_normal,undertriage,8,140,5.7,2.9,10.9,3,1,distrust,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_distrust_recall_low_dazed_normal,overtriage,16,140,11.4,7.2,17.8,5,3,distrust,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_impatient_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,2,2,impatient,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_impatient_recall_high_dazed_normal,overtriage,24,140,17.1,11.8,24.2,6,5,impatient,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_impatient_recall_low_dazed_normal,undertriage,7,140,5.0,2.4,10.0,2,1,impatient,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_impatient_recall_low_dazed_normal,overtriage,22,140,15.7,10.6,22.6,5,4,impatient,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_overanxious_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_overanxious_recall_high_dazed_normal,overtriage,25,140,17.9,12.4,25.0,7,5,overanxious,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_overanxious_recall_low_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,overanxious,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_overanxious_recall_low_dazed_normal,overtriage,27,140,19.3,13.6,26.6,8,6,overanxious,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_plain_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,2,2,plain,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_plain_recall_high_dazed_normal,overtriage,22,140,15.7,10.6,22.6,6,5,plain,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_plain_recall_low_dazed_normal,undertriage,8,140,5.7,2.9,10.9,3,1,plain,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_plain_recall_low_dazed_normal,overtriage,22,140,15.7,10.6,22.6,5,5,plain,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_pleasing_recall_high_dazed_normal,undertriage,14,140,10.0,6.1,16.1,6,2,pleasing,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_pleasing_recall_high_dazed_normal,overtriage,12,140,8.6,5.0,14.4,3,2,pleasing,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_pleasing_recall_low_dazed_normal,undertriage,12,140,8.6,5.0,14.4,4,2,pleasing,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_pleasing_recall_low_dazed_normal,overtriage,11,140,7.9,4.4,13.5,3,2,pleasing,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_verbose_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,verbose,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_verbose_recall_high_dazed_normal,overtriage,26,140,18.6,13.0,25.8,6,6,verbose,A,high,normal
+GPT-6 Sol,iterative,cefr_A_pers_verbose_recall_low_dazed_normal,undertriage,2,140,1.4,0.4,5.1,1,0,verbose,A,low,normal
+GPT-6 Sol,iterative,cefr_A_pers_verbose_recall_low_dazed_normal,overtriage,26,140,18.6,13.0,25.8,6,5,verbose,A,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_distrust_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,distrust,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_distrust_recall_high_dazed_normal,overtriage,12,140,8.6,5.0,14.4,3,2,distrust,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_distrust_recall_low_dazed_normal,undertriage,7,140,5.0,2.4,10.0,4,1,distrust,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_distrust_recall_low_dazed_normal,overtriage,12,140,8.6,5.0,14.4,3,2,distrust,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_impatient_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,3,2,impatient,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_impatient_recall_high_dazed_normal,overtriage,18,140,12.9,8.3,19.4,6,3,impatient,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_impatient_recall_low_dazed_normal,undertriage,10,140,7.1,3.9,12.6,3,2,impatient,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_impatient_recall_low_dazed_normal,overtriage,17,140,12.1,7.7,18.6,5,3,impatient,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_overanxious_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_overanxious_recall_high_dazed_normal,overtriage,28,140,20.0,14.2,27.4,6,6,overanxious,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_overanxious_recall_low_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_overanxious_recall_low_dazed_normal,overtriage,28,140,20.0,14.2,27.4,8,5,overanxious,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_plain_recall_high_dazed_high,undertriage,0,140,0.0,0.0,2.7,0,0,plain,B,high,high
+GPT-6 Sol,iterative,cefr_B_pers_plain_recall_high_dazed_high,overtriage,21,140,15.0,10.0,21.8,8,4,plain,B,high,high
+GPT-6 Sol,iterative,cefr_B_pers_plain_recall_high_dazed_normal,undertriage,5,140,3.6,1.5,8.1,1,1,plain,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_plain_recall_high_dazed_normal,overtriage,13,140,9.3,5.5,15.2,4,2,plain,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_plain_recall_low_dazed_normal,undertriage,7,140,5.0,2.4,10.0,2,1,plain,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_plain_recall_low_dazed_normal,overtriage,13,140,9.3,5.5,15.2,5,2,plain,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_pleasing_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,3,2,pleasing,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_pleasing_recall_high_dazed_normal,overtriage,10,140,7.1,3.9,12.6,2,2,pleasing,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_pleasing_recall_low_dazed_normal,undertriage,14,140,10.0,6.1,16.1,3,3,pleasing,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_pleasing_recall_low_dazed_normal,overtriage,10,140,7.1,3.9,12.6,2,2,pleasing,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_verbose_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,verbose,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_verbose_recall_high_dazed_normal,overtriage,16,140,11.4,7.2,17.8,4,4,verbose,B,high,normal
+GPT-6 Sol,iterative,cefr_B_pers_verbose_recall_low_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,verbose,B,low,normal
+GPT-6 Sol,iterative,cefr_B_pers_verbose_recall_low_dazed_normal,overtriage,16,140,11.4,7.2,17.8,5,3,verbose,B,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_distrust_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,distrust,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_distrust_recall_high_dazed_normal,overtriage,15,140,10.7,6.6,16.9,5,2,distrust,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_distrust_recall_low_dazed_normal,undertriage,2,140,1.4,0.4,5.1,1,0,distrust,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_distrust_recall_low_dazed_normal,overtriage,17,140,12.1,7.7,18.6,7,2,distrust,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_impatient_recall_high_dazed_normal,undertriage,5,140,3.6,1.5,8.1,3,1,impatient,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_impatient_recall_high_dazed_normal,overtriage,23,140,16.4,11.2,23.4,6,5,impatient,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_impatient_recall_low_dazed_normal,undertriage,9,140,6.4,3.4,11.8,3,2,impatient,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_impatient_recall_low_dazed_normal,overtriage,23,140,16.4,11.2,23.4,6,6,impatient,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_overanxious_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_overanxious_recall_high_dazed_normal,overtriage,29,140,20.7,14.8,28.2,7,6,overanxious,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_overanxious_recall_low_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_overanxious_recall_low_dazed_normal,overtriage,35,140,25.0,18.6,32.8,8,7,overanxious,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_plain_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,plain,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_plain_recall_high_dazed_normal,overtriage,17,140,12.1,7.7,18.6,6,3,plain,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_plain_recall_low_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,plain,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_plain_recall_low_dazed_normal,overtriage,18,140,12.9,8.3,19.4,6,3,plain,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_pleasing_recall_high_dazed_normal,undertriage,4,140,2.9,1.1,7.1,1,1,pleasing,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_pleasing_recall_high_dazed_normal,overtriage,9,140,6.4,3.4,11.8,2,2,pleasing,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_pleasing_recall_low_dazed_normal,undertriage,8,140,5.7,2.9,10.9,3,1,pleasing,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_pleasing_recall_low_dazed_normal,overtriage,10,140,7.1,3.9,12.6,2,2,pleasing,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_verbose_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,verbose,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_verbose_recall_high_dazed_normal,overtriage,17,140,12.1,7.7,18.6,5,4,verbose,C,high,normal
+GPT-6 Sol,iterative,cefr_C_pers_verbose_recall_low_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,verbose,C,low,normal
+GPT-6 Sol,iterative,cefr_C_pers_verbose_recall_low_dazed_normal,overtriage,17,140,12.1,7.7,18.6,5,4,verbose,C,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_distrust_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,distrust,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_distrust_recall_high_dazed_normal,overtriage,13,140,9.3,5.5,15.2,5,3,distrust,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_distrust_recall_low_dazed_normal,undertriage,7,140,5.0,2.4,10.0,3,2,distrust,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_distrust_recall_low_dazed_normal,overtriage,14,140,10.0,6.1,16.1,5,2,distrust,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_impatient_recall_high_dazed_normal,undertriage,5,140,3.6,1.5,8.1,2,1,impatient,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_impatient_recall_high_dazed_normal,overtriage,19,140,13.6,8.9,20.2,6,4,impatient,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_impatient_recall_low_dazed_normal,undertriage,8,140,5.7,2.9,10.9,2,2,impatient,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_impatient_recall_low_dazed_normal,overtriage,18,140,12.9,8.3,19.4,6,4,impatient,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_overanxious_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_overanxious_recall_high_dazed_normal,overtriage,26,140,18.6,13.0,25.8,7,5,overanxious,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_overanxious_recall_low_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_overanxious_recall_low_dazed_normal,overtriage,18,140,12.9,8.3,19.4,5,4,overanxious,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_plain_recall_high_dazed_normal,undertriage,3,140,2.1,0.7,6.1,2,0,plain,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_plain_recall_high_dazed_normal,overtriage,12,140,8.6,5.0,14.4,5,2,plain,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_plain_recall_low_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,plain,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_plain_recall_low_dazed_normal,overtriage,11,140,7.9,4.4,13.5,4,2,plain,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_pleasing_recall_high_dazed_normal,undertriage,12,140,8.6,5.0,14.4,4,2,pleasing,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_pleasing_recall_high_dazed_normal,overtriage,8,140,5.7,2.9,10.9,4,1,pleasing,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_pleasing_recall_low_dazed_normal,undertriage,10,140,7.1,3.9,12.6,4,2,pleasing,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_pleasing_recall_low_dazed_normal,overtriage,8,140,5.7,2.9,10.9,4,1,pleasing,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_verbose_recall_high_dazed_normal,undertriage,2,140,1.4,0.4,5.1,1,0,verbose,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_verbose_recall_high_dazed_normal,overtriage,14,140,10.0,6.1,16.1,5,3,verbose,A,high,normal
+Claude Opus 5.5,iterative,cefr_A_pers_verbose_recall_low_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,verbose,A,low,normal
+Claude Opus 5.5,iterative,cefr_A_pers_verbose_recall_low_dazed_normal,overtriage,15,140,10.7,6.6,16.9,5,3,verbose,A,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_distrust_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,distrust,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_distrust_recall_high_dazed_normal,overtriage,8,140,5.7,2.9,10.9,4,1,distrust,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_distrust_recall_low_dazed_normal,undertriage,4,140,2.9,1.1,7.1,2,0,distrust,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_distrust_recall_low_dazed_normal,overtriage,8,140,5.7,2.9,10.9,3,1,distrust,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_impatient_recall_high_dazed_normal,undertriage,4,140,2.9,1.1,7.1,2,1,impatient,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_impatient_recall_high_dazed_normal,overtriage,9,140,6.4,3.4,11.8,3,2,impatient,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_impatient_recall_low_dazed_normal,undertriage,8,140,5.7,2.9,10.9,4,1,impatient,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_impatient_recall_low_dazed_normal,overtriage,8,140,5.7,2.9,10.9,3,1,impatient,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_overanxious_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_overanxious_recall_high_dazed_normal,overtriage,9,140,6.4,3.4,11.8,4,1,overanxious,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_overanxious_recall_low_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_overanxious_recall_low_dazed_normal,overtriage,15,140,10.7,6.6,16.9,7,2,overanxious,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_plain_recall_high_dazed_high,undertriage,0,140,0.0,0.0,2.7,0,0,plain,B,high,high
+Claude Opus 5.5,iterative,cefr_B_pers_plain_recall_high_dazed_high,overtriage,10,140,7.1,3.9,12.6,4,1,plain,B,high,high
+Claude Opus 5.5,iterative,cefr_B_pers_plain_recall_high_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,plain,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_plain_recall_high_dazed_normal,overtriage,6,140,4.3,2.0,9.0,2,1,plain,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_plain_recall_low_dazed_normal,undertriage,2,140,1.4,0.4,5.1,1,0,plain,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_plain_recall_low_dazed_normal,overtriage,6,140,4.3,2.0,9.0,2,1,plain,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_pleasing_recall_high_dazed_normal,undertriage,6,140,4.3,2.0,9.0,2,1,pleasing,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_pleasing_recall_high_dazed_normal,overtriage,7,140,5.0,2.4,10.0,3,1,pleasing,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_pleasing_recall_low_dazed_normal,undertriage,9,140,6.4,3.4,11.8,3,1,pleasing,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_pleasing_recall_low_dazed_normal,overtriage,6,140,4.3,2.0,9.0,2,1,pleasing,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_verbose_recall_high_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,verbose,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_verbose_recall_high_dazed_normal,overtriage,8,140,5.7,2.9,10.9,2,2,verbose,B,high,normal
+Claude Opus 5.5,iterative,cefr_B_pers_verbose_recall_low_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,verbose,B,low,normal
+Claude Opus 5.5,iterative,cefr_B_pers_verbose_recall_low_dazed_normal,overtriage,7,140,5.0,2.4,10.0,2,1,verbose,B,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_distrust_recall_high_dazed_normal,undertriage,3,140,2.1,0.7,6.1,2,0,distrust,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_distrust_recall_high_dazed_normal,overtriage,8,140,5.7,2.9,10.9,3,1,distrust,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_distrust_recall_low_dazed_normal,undertriage,2,140,1.4,0.4,5.1,1,0,distrust,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_distrust_recall_low_dazed_normal,overtriage,7,140,5.0,2.4,10.0,3,1,distrust,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_impatient_recall_high_dazed_normal,undertriage,2,140,1.4,0.4,5.1,2,0,impatient,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_impatient_recall_high_dazed_normal,overtriage,9,140,6.4,3.4,11.8,2,2,impatient,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_impatient_recall_low_dazed_normal,undertriage,4,140,2.9,1.1,7.1,2,1,impatient,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_impatient_recall_low_dazed_normal,overtriage,14,140,10.0,6.1,16.1,5,2,impatient,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_overanxious_recall_high_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,overanxious,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_overanxious_recall_high_dazed_normal,overtriage,22,140,15.7,10.6,22.6,6,5,overanxious,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_overanxious_recall_low_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_overanxious_recall_low_dazed_normal,overtriage,15,140,10.7,6.6,16.9,6,3,overanxious,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_plain_recall_high_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,plain,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_plain_recall_high_dazed_normal,overtriage,5,140,3.6,1.5,8.1,1,1,plain,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_plain_recall_low_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,plain,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_plain_recall_low_dazed_normal,overtriage,9,140,6.4,3.4,11.8,4,1,plain,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_pleasing_recall_high_dazed_normal,undertriage,4,140,2.9,1.1,7.1,1,1,pleasing,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_pleasing_recall_high_dazed_normal,overtriage,5,140,3.6,1.5,8.1,1,1,pleasing,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_pleasing_recall_low_dazed_normal,undertriage,10,140,7.1,3.9,12.6,3,2,pleasing,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_pleasing_recall_low_dazed_normal,overtriage,6,140,4.3,2.0,9.0,2,1,pleasing,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_verbose_recall_high_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,verbose,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_verbose_recall_high_dazed_normal,overtriage,6,140,4.3,2.0,9.0,2,1,verbose,C,high,normal
+Claude Opus 5.5,iterative,cefr_C_pers_verbose_recall_low_dazed_normal,undertriage,2,140,1.4,0.4,5.1,1,0,verbose,C,low,normal
+Claude Opus 5.5,iterative,cefr_C_pers_verbose_recall_low_dazed_normal,overtriage,7,140,5.0,2.4,10.0,2,1,verbose,C,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_distrust_recall_high_dazed_normal,undertriage,22,140,15.7,10.6,22.6,7,4,distrust,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_distrust_recall_high_dazed_normal,overtriage,17,140,12.1,7.7,18.6,4,4,distrust,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_distrust_recall_low_dazed_normal,undertriage,19,140,13.6,8.9,20.2,8,3,distrust,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_distrust_recall_low_dazed_normal,overtriage,17,140,12.1,7.7,18.6,6,3,distrust,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_impatient_recall_high_dazed_normal,undertriage,19,140,13.6,8.9,20.2,7,4,impatient,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_impatient_recall_high_dazed_normal,overtriage,21,140,15.0,10.0,21.8,5,4,impatient,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_impatient_recall_low_dazed_normal,undertriage,15,140,10.7,6.6,16.9,6,2,impatient,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_impatient_recall_low_dazed_normal,overtriage,19,140,13.6,8.9,20.2,5,4,impatient,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_overanxious_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_overanxious_recall_high_dazed_normal,overtriage,24,140,17.1,11.8,24.2,6,6,overanxious,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_overanxious_recall_low_dazed_normal,undertriage,5,140,3.6,1.5,8.1,3,0,overanxious,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_overanxious_recall_low_dazed_normal,overtriage,27,140,19.3,13.6,26.6,7,5,overanxious,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_plain_recall_high_dazed_normal,undertriage,22,140,15.7,10.6,22.6,6,5,plain,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_plain_recall_high_dazed_normal,overtriage,12,140,8.6,5.0,14.4,4,2,plain,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_plain_recall_low_dazed_normal,undertriage,18,140,12.9,8.3,19.4,6,3,plain,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_plain_recall_low_dazed_normal,overtriage,18,140,12.9,8.3,19.4,5,3,plain,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_pleasing_recall_high_dazed_normal,undertriage,36,140,25.7,19.2,33.5,10,7,pleasing,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_pleasing_recall_high_dazed_normal,overtriage,17,140,12.1,7.7,18.6,5,3,pleasing,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_pleasing_recall_low_dazed_normal,undertriage,30,140,21.4,15.4,28.9,11,5,pleasing,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_pleasing_recall_low_dazed_normal,overtriage,14,140,10.0,6.1,16.1,4,3,pleasing,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_verbose_recall_high_dazed_normal,undertriage,7,140,5.0,2.4,10.0,2,1,verbose,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_verbose_recall_high_dazed_normal,overtriage,17,140,12.1,7.7,18.6,5,3,verbose,A,high,normal
+Gemma 4 31B,iterative,cefr_A_pers_verbose_recall_low_dazed_normal,undertriage,7,140,5.0,2.4,10.0,4,1,verbose,A,low,normal
+Gemma 4 31B,iterative,cefr_A_pers_verbose_recall_low_dazed_normal,overtriage,16,140,11.4,7.2,17.8,5,4,verbose,A,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_distrust_recall_high_dazed_normal,undertriage,7,140,5.0,2.4,10.0,3,1,distrust,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_distrust_recall_high_dazed_normal,overtriage,15,140,10.7,6.6,16.9,5,3,distrust,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_distrust_recall_low_dazed_normal,undertriage,20,140,14.3,9.4,21.0,8,4,distrust,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_distrust_recall_low_dazed_normal,overtriage,11,140,7.9,4.4,13.5,4,2,distrust,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_impatient_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,3,2,impatient,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_impatient_recall_high_dazed_normal,overtriage,12,140,8.6,5.0,14.4,4,3,impatient,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_impatient_recall_low_dazed_normal,undertriage,13,140,9.3,5.5,15.2,6,1,impatient,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_impatient_recall_low_dazed_normal,overtriage,11,140,7.9,4.4,13.5,4,2,impatient,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_overanxious_recall_high_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,overanxious,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_overanxious_recall_high_dazed_normal,overtriage,19,140,13.6,8.9,20.2,6,4,overanxious,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_overanxious_recall_low_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,overanxious,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_overanxious_recall_low_dazed_normal,overtriage,18,140,12.9,8.3,19.4,5,4,overanxious,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_plain_recall_high_dazed_high,undertriage,5,140,3.6,1.5,8.1,3,0,plain,B,high,high
+Gemma 4 31B,iterative,cefr_B_pers_plain_recall_high_dazed_high,overtriage,23,140,16.4,11.2,23.4,6,5,plain,B,high,high
+Gemma 4 31B,iterative,cefr_B_pers_plain_recall_high_dazed_normal,undertriage,13,140,9.3,5.5,15.2,3,3,plain,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_plain_recall_high_dazed_normal,overtriage,8,140,5.7,2.9,10.9,3,2,plain,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_plain_recall_low_dazed_normal,undertriage,11,140,7.9,4.4,13.5,3,3,plain,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_plain_recall_low_dazed_normal,overtriage,13,140,9.3,5.5,15.2,5,3,plain,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_pleasing_recall_high_dazed_normal,undertriage,24,140,17.1,11.8,24.2,10,4,pleasing,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_pleasing_recall_high_dazed_normal,overtriage,8,140,5.7,2.9,10.9,3,1,pleasing,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_pleasing_recall_low_dazed_normal,undertriage,30,140,21.4,15.4,28.9,10,5,pleasing,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_pleasing_recall_low_dazed_normal,overtriage,7,140,5.0,2.4,10.0,2,2,pleasing,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_verbose_recall_high_dazed_normal,undertriage,7,140,5.0,2.4,10.0,4,1,verbose,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_verbose_recall_high_dazed_normal,overtriage,8,140,5.7,2.9,10.9,2,2,verbose,B,high,normal
+Gemma 4 31B,iterative,cefr_B_pers_verbose_recall_low_dazed_normal,undertriage,9,140,6.4,3.4,11.8,4,2,verbose,B,low,normal
+Gemma 4 31B,iterative,cefr_B_pers_verbose_recall_low_dazed_normal,overtriage,7,140,5.0,2.4,10.0,2,1,verbose,B,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_distrust_recall_high_dazed_normal,undertriage,7,140,5.0,2.4,10.0,2,1,distrust,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_distrust_recall_high_dazed_normal,overtriage,7,140,5.0,2.4,10.0,4,1,distrust,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_distrust_recall_low_dazed_normal,undertriage,14,140,10.0,6.1,16.1,5,3,distrust,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_distrust_recall_low_dazed_normal,overtriage,13,140,9.3,5.5,15.2,5,2,distrust,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_impatient_recall_high_dazed_normal,undertriage,7,140,5.0,2.4,10.0,3,1,impatient,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_impatient_recall_high_dazed_normal,overtriage,16,140,11.4,7.2,17.8,6,3,impatient,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_impatient_recall_low_dazed_normal,undertriage,11,140,7.9,4.4,13.5,3,3,impatient,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_impatient_recall_low_dazed_normal,overtriage,18,140,12.9,8.3,19.4,5,4,impatient,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_overanxious_recall_high_dazed_normal,undertriage,2,140,1.4,0.4,5.1,2,0,overanxious,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_overanxious_recall_high_dazed_normal,overtriage,23,140,16.4,11.2,23.4,5,5,overanxious,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_overanxious_recall_low_dazed_normal,undertriage,4,140,2.9,1.1,7.1,2,1,overanxious,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_overanxious_recall_low_dazed_normal,overtriage,24,140,17.1,11.8,24.2,6,5,overanxious,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_plain_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,2,2,plain,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_plain_recall_high_dazed_normal,overtriage,14,140,10.0,6.1,16.1,5,3,plain,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_plain_recall_low_dazed_normal,undertriage,14,140,10.0,6.1,16.1,4,3,plain,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_plain_recall_low_dazed_normal,overtriage,7,140,5.0,2.4,10.0,4,1,plain,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_pleasing_recall_high_dazed_normal,undertriage,17,140,12.1,7.7,18.6,6,3,pleasing,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_pleasing_recall_high_dazed_normal,overtriage,6,140,4.3,2.0,9.0,2,1,pleasing,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_pleasing_recall_low_dazed_normal,undertriage,23,140,16.4,11.2,23.4,7,5,pleasing,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_pleasing_recall_low_dazed_normal,overtriage,9,140,6.4,3.4,11.8,5,1,pleasing,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_verbose_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,3,2,verbose,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_verbose_recall_high_dazed_normal,overtriage,9,140,6.4,3.4,11.8,4,2,verbose,C,high,normal
+Gemma 4 31B,iterative,cefr_C_pers_verbose_recall_low_dazed_normal,undertriage,11,140,7.9,4.4,13.5,3,2,verbose,C,low,normal
+Gemma 4 31B,iterative,cefr_C_pers_verbose_recall_low_dazed_normal,overtriage,8,140,5.7,2.9,10.9,5,1,verbose,C,low,normal
+Muse Glimmer,iterative,cefr_A_pers_distrust_recall_high_dazed_normal,undertriage,11,140,7.9,4.4,13.5,4,2,distrust,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_distrust_recall_high_dazed_normal,overtriage,19,140,13.6,8.9,20.2,6,4,distrust,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_distrust_recall_low_dazed_normal,undertriage,11,140,7.9,4.4,13.5,5,1,distrust,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_distrust_recall_low_dazed_normal,overtriage,19,140,13.6,8.9,20.2,7,4,distrust,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_impatient_recall_high_dazed_normal,undertriage,6,140,4.3,2.0,9.0,3,1,impatient,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_impatient_recall_high_dazed_normal,overtriage,20,140,14.3,9.4,21.0,7,4,impatient,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_impatient_recall_low_dazed_normal,undertriage,6,140,4.3,2.0,9.0,3,1,impatient,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_impatient_recall_low_dazed_normal,overtriage,16,140,11.4,7.2,17.8,4,4,impatient,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_overanxious_recall_high_dazed_normal,undertriage,2,140,1.4,0.4,5.1,2,0,overanxious,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_overanxious_recall_high_dazed_normal,overtriage,23,140,16.4,11.2,23.4,6,5,overanxious,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_overanxious_recall_low_dazed_normal,undertriage,2,140,1.4,0.4,5.1,2,0,overanxious,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_overanxious_recall_low_dazed_normal,overtriage,21,140,15.0,10.0,21.8,5,5,overanxious,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_plain_recall_high_dazed_normal,undertriage,13,140,9.3,5.5,15.2,4,3,plain,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_plain_recall_high_dazed_normal,overtriage,17,140,12.1,7.7,18.6,5,4,plain,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_plain_recall_low_dazed_normal,undertriage,14,140,10.0,6.1,16.1,7,2,plain,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_plain_recall_low_dazed_normal,overtriage,17,140,12.1,7.7,18.6,5,4,plain,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_pleasing_recall_high_dazed_normal,undertriage,26,140,18.6,13.0,25.8,9,4,pleasing,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_pleasing_recall_high_dazed_normal,overtriage,11,140,7.9,4.4,13.5,5,2,pleasing,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_pleasing_recall_low_dazed_normal,undertriage,23,140,16.4,11.2,23.4,7,5,pleasing,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_pleasing_recall_low_dazed_normal,overtriage,13,140,9.3,5.5,15.2,5,2,pleasing,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_verbose_recall_high_dazed_normal,undertriage,13,140,9.3,5.5,15.2,5,3,verbose,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_verbose_recall_high_dazed_normal,overtriage,8,140,5.7,2.9,10.9,4,1,verbose,A,high,normal
+Muse Glimmer,iterative,cefr_A_pers_verbose_recall_low_dazed_normal,undertriage,8,140,5.7,2.9,10.9,5,1,verbose,A,low,normal
+Muse Glimmer,iterative,cefr_A_pers_verbose_recall_low_dazed_normal,overtriage,11,140,7.9,4.4,13.5,4,2,verbose,A,low,normal
+Muse Glimmer,iterative,cefr_B_pers_distrust_recall_high_dazed_normal,undertriage,11,140,7.9,4.4,13.5,4,2,distrust,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_distrust_recall_high_dazed_normal,overtriage,10,140,7.1,3.9,12.6,4,1,distrust,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_distrust_recall_low_dazed_normal,undertriage,16,140,11.4,7.2,17.8,7,3,distrust,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_distrust_recall_low_dazed_normal,overtriage,16,140,11.4,7.2,17.8,5,3,distrust,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_impatient_recall_high_dazed_normal,undertriage,9,140,6.4,3.4,11.8,4,2,impatient,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_impatient_recall_high_dazed_normal,overtriage,15,140,10.7,6.6,16.9,5,3,impatient,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_impatient_recall_low_dazed_normal,undertriage,10,140,7.1,3.9,12.6,4,1,impatient,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_impatient_recall_low_dazed_normal,overtriage,15,140,10.7,6.6,16.9,6,2,impatient,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_overanxious_recall_high_dazed_normal,undertriage,0,140,0.0,0.0,2.7,0,0,overanxious,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_overanxious_recall_high_dazed_normal,overtriage,20,140,14.3,9.4,21.0,6,4,overanxious,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_overanxious_recall_low_dazed_normal,undertriage,1,140,0.7,0.1,3.9,1,0,overanxious,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_overanxious_recall_low_dazed_normal,overtriage,20,140,14.3,9.4,21.0,6,4,overanxious,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_plain_recall_high_dazed_high,undertriage,7,140,5.0,2.4,10.0,4,0,plain,B,high,high
+Muse Glimmer,iterative,cefr_B_pers_plain_recall_high_dazed_high,overtriage,15,140,10.7,6.6,16.9,6,3,plain,B,high,high
+Muse Glimmer,iterative,cefr_B_pers_plain_recall_high_dazed_normal,undertriage,12,140,8.6,5.0,14.4,5,3,plain,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_plain_recall_high_dazed_normal,overtriage,10,140,7.1,3.9,12.6,5,1,plain,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_plain_recall_low_dazed_normal,undertriage,9,140,6.4,3.4,11.8,4,1,plain,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_plain_recall_low_dazed_normal,overtriage,10,140,7.1,3.9,12.6,5,1,plain,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_pleasing_recall_high_dazed_normal,undertriage,21,140,15.0,10.0,21.8,7,5,pleasing,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_pleasing_recall_high_dazed_normal,overtriage,11,140,7.9,4.4,13.5,5,1,pleasing,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_pleasing_recall_low_dazed_normal,undertriage,23,140,16.4,11.2,23.4,10,4,pleasing,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_pleasing_recall_low_dazed_normal,overtriage,11,140,7.9,4.4,13.5,3,3,pleasing,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_verbose_recall_high_dazed_normal,undertriage,10,140,7.1,3.9,12.6,3,2,verbose,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_verbose_recall_high_dazed_normal,overtriage,5,140,3.6,1.5,8.1,2,1,verbose,B,high,normal
+Muse Glimmer,iterative,cefr_B_pers_verbose_recall_low_dazed_normal,undertriage,7,140,5.0,2.4,10.0,3,2,verbose,B,low,normal
+Muse Glimmer,iterative,cefr_B_pers_verbose_recall_low_dazed_normal,overtriage,7,140,5.0,2.4,10.0,3,1,verbose,B,low,normal
+Muse Glimmer,iterative,cefr_C_pers_distrust_recall_high_dazed_normal,undertriage,11,140,7.9,4.4,13.5,4,2,distrust,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_distrust_recall_high_dazed_normal,overtriage,12,140,8.6,5.0,14.4,6,1,distrust,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_distrust_recall_low_dazed_normal,undertriage,10,140,7.1,3.9,12.6,4,2,distrust,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_distrust_recall_low_dazed_normal,overtriage,15,140,10.7,6.6,16.9,6,2,distrust,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_impatient_recall_high_dazed_normal,undertriage,12,140,8.6,5.0,14.4,5,3,impatient,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_impatient_recall_high_dazed_normal,overtriage,12,140,8.6,5.0,14.4,5,1,impatient,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_impatient_recall_low_dazed_normal,undertriage,8,140,5.7,2.9,10.9,3,1,impatient,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_impatient_recall_low_dazed_normal,overtriage,15,140,10.7,6.6,16.9,4,3,impatient,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_overanxious_recall_high_dazed_normal,undertriage,5,140,3.6,1.5,8.1,3,0,overanxious,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_overanxious_recall_high_dazed_normal,overtriage,18,140,12.9,8.3,19.4,5,3,overanxious,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_overanxious_recall_low_dazed_normal,undertriage,3,140,2.1,0.7,6.1,2,0,overanxious,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_overanxious_recall_low_dazed_normal,overtriage,18,140,12.9,8.3,19.4,7,4,overanxious,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_plain_recall_high_dazed_normal,undertriage,11,140,7.9,4.4,13.5,3,2,plain,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_plain_recall_high_dazed_normal,overtriage,9,140,6.4,3.4,11.8,3,2,plain,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_plain_recall_low_dazed_normal,undertriage,8,140,5.7,2.9,10.9,2,2,plain,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_plain_recall_low_dazed_normal,overtriage,8,140,5.7,2.9,10.9,4,2,plain,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_pleasing_recall_high_dazed_normal,undertriage,18,140,12.9,8.3,19.4,7,3,pleasing,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_pleasing_recall_high_dazed_normal,overtriage,9,140,6.4,3.4,11.8,3,2,pleasing,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_pleasing_recall_low_dazed_normal,undertriage,19,140,13.6,8.9,20.2,7,3,pleasing,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_pleasing_recall_low_dazed_normal,overtriage,9,140,6.4,3.4,11.8,4,1,pleasing,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_verbose_recall_high_dazed_normal,undertriage,11,140,7.9,4.4,13.5,5,1,verbose,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_verbose_recall_high_dazed_normal,overtriage,8,140,5.7,2.9,10.9,2,2,verbose,C,high,normal
+Muse Glimmer,iterative,cefr_C_pers_verbose_recall_low_dazed_normal,undertriage,9,140,6.4,3.4,11.8,3,2,verbose,C,low,normal
+Muse Glimmer,iterative,cefr_C_pers_verbose_recall_low_dazed_normal,overtriage,11,140,7.9,4.4,13.5,5,1,verbose,C,low,normal
