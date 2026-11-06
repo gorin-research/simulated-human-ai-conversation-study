@@ -1,0 +1,280 @@
+case,finding,pattern
+1,arm numbness/tingling,numb|tingl
+1,left-sided,\bleft\b
+1,two episodes,"two (episode|time)|twice|2 (episode|time)|happen(ed)? .{0,10}two"
+1,"~15 min, resolved",15 ?min|fifteen|resolv|went away|go(es)? away|then (okay|ok|fine)|completely
+1,no weakness,weak
+1,no facial droop,face|facial|droop
+1,no speech problems,speech|speak|talk|slur|word
+1,feels normal now,"(feel|feels|feeling).{0,10}(normal|fine|okay|ok)|normal (now|right)"
+1,no smoking,smok
+1,no diabetes/hypertension,diabet|blood pressure|hypertens
+1,not on blood thinners,thinn|anticoag|warfarin
+3,chest pressure,chest
+3,exertional,walk|hill|exert|stair|activity|exercis
+3,relieved by rest,\brest
+3,~1 week duration,week
+3,never at rest / fine now,at rest|feel fine|fine now|never happen
+3,diabetes,diabet|metformin
+3,hypertension,blood pressure|hypertens|lisinopril
+3,high cholesterol,cholesterol|statin
+3,"no jaw/arm pain, nausea, sweating",jaw|arm|nause|sweat
+4,low back pain ~2 weeks,back
+4,worse at night / wakes,night|wake
+4,night sweats,sweat
+4,unintentional weight loss,weight|pound|lbs
+4,no injury,injur|trauma|fall|fell|hurt it
+4,no leg weakness/numbness,leg|weak|numb
+4,former smoker,smok
+4,no bowel/bladder problems,bowel|bladder|urin|pee|incontinen
+7,right lower abdominal pain,"right.{0,20}(low|belly|abdom|side|stomach)|lower right"
+7,since yesterday,yesterday|1 day|a day
+7,"dull ache, moderate",dull|5 ?/ ?10|five out|ache
+7,nausea,nause|queasy|sick to
+7,no vomiting,vomit|threw|throw
+7,decreased appetite,appetite|hungry|eat
+7,recent stomach bug,stomach (bug|flu)|virus|viral
+7,no urinary burning,burn|urin|pee
+7,no prior surgeries,surger|operation
+9,wheezing,wheez
+9,chest tightness,tight|chest
+9,~12 hours,12 hour|twelve|since (last night|yesterday)|past 12|all (day|night)
+9,"rescue inhaler x4, partial relief",inhaler|puff|albuterol|rescue
+9,symptoms return,come(s)? back|return|again|wear
+9,speaks full sentences,full sentence|can (still )?talk|speak
+9,no fever,fever
+9,mild dry cough,cough
+9,asthma history,asthma
+9,no recent ER visits,\ber\b|emergency room|hospital|years
+10,feels mostly fine,fine|okay|well|no symptom|mostly
+10,mild leg cramps,cramp|leg
+10,routine labs prompted visit,lab|blood test|test|potassium|result
+10,hypertension,blood pressure|hypertens
+10,chronic kidney disease,kidney
+11,nausea x2 days,nause|sick
+11,mild headache,headache|head hurt|head ache
+11,lightheadedness,lighthead|dizz
+11,"alert, ambulating",alert|walk|awake|normal
+11,no confusion,confus
+11,no seizures,seizure|convuls
+11,recently started thiazide,hydrochlorothiazide|hctz|thiazide|water pill|blood pressure (pill|med)|new (pill|med)|started
+12,calf swelling,swell|swollen
+12,soreness/pain,sore|pain|hurt|ach
+12,left leg,\bleft\b
+12,~2 days,2 day|two day|couple
+12,after long flight,flight|plane|flew|travel|sitting
+12,asymmetric swelling,other leg|more swollen|than the other|bigger|one leg
+12,no chest pain,chest
+12,no shortness of breath,breath
+12,no clotting disorder,clot
+12,not on blood thinners,thinn|anticoag
+13,marked thirst,thirst
+13,polyuria,urinat|pee|bathroom a lot
+13,nausea,nause
+13,mild abdominal discomfort,stomach|belly|abdom
+13,not confused,confus|clear|alert
+13,tolerating small sips,"sip|keep.{0,15}down|drink"
+13,no fever,fever
+13,type 1 diabetes,diabet|type 1|insulin
+14,dysuria x2 days,burn
+14,flank/back pain,flank|back|side
+14,fever,fever|temperatur|hot
+14,nausea,nause
+14,not vomiting,vomit|throw
+14,left-sided,\bleft\b
+14,no kidney stone history,stone
+15,very high BP reading,blood pressure|very high|reading
+15,mild headache,headache
+15,no chest pain,chest
+15,no shortness of breath,breath
+15,no vision changes,vision|blurr|see
+15,no weakness/numbness,weak|numb
+15,no trouble speaking,speak|speech|talk
+15,not previously on BP meds,med|pill|treat
+16,black tarry stool,black|tarry|dark
+16,single episode today,one|once|today
+16,not vomiting,vomit|throw
+16,not faint,faint|dizz|lighthead
+16,mild upper-abdominal indigestion,indigestion|upper stomach|heartburn|burning|stomach
+16,regular ibuprofen use,ibuprofen|advil|nsaid|pain (pill|med|reliever)
+16,for back pain,back
+22,petechiae on legs,spot|dot|rash|purple|red|petechi
+22,gum bleeding,gum
+22,prolonged nosebleed,nose
+22,~3 days,3 day|three day|few day
+22,recent viral illness,viral|virus|sick|cold|flu|ill
+22,no blood thinners,thinn|anticoag
+22,no liver disease,liver
+22,limited ibuprofen use,ibuprofen|advil
+25,unilateral facial weakness,face|facial
+25,incomplete eye closure,eye
+25,mouth droop on smiling,mouth|droop|smile
+25,noticed on waking,woke|morning|wake
+25,right-sided,right
+25,no limb weakness,arm|leg
+25,no speech difficulty,speak|speech|talk|understand
+25,no headache,headache
+25,recent cold,cold|virus|sick
+25,no diabetes,diabet
+25,no stroke/cardiac history,stroke|heart
+26,red eye,\bred\b
+26,deep aching eye pain,pain|ache|hurt
+26,photophobia,light
+26,~2 days,2 day|two day|couple
+26,blurry vision,blurr|vision
+26,no discharge/crusting,discharge|crust|goop|gunk
+26,left eye,\bleft\b
+26,no contact lens use,contact
+26,wears glasses only,glasses
+27,knee swelling,swell|swollen
+27,severe pain / limited flexion,pain|bend|barely|hurt
+27,warmth,warm|hot
+27,right knee,knee
+27,~2 days,2 day|two day
+27,low-grade fever,fever|99|temperatur
+27,no remembered injury,injur|trauma|hurt it
+27,"recreational sport, none recent",basketball|sport|play
+27,no gout/arthritis history,gout|arthritis
+27,social alcohol,beer|alcohol|drink
+28,depressed/hopeless ~1 month,depress|hopeless|down|low
+28,passive death wish,"wouldn'?t wake|not wake|wish.{0,30}(dead|die|not here|wake)"
+28,no plan,plan
+28,no intent to die,want to die|intent|actually
+28,still functioning,work|kid|taking care|function
+28,disclosed to doctor,doctor|told
+28,no firearm access,gun|firearm
+28,not stockpiling medications,stockpil|pill|medication
+28,support network present,partner|family
+28,would disclose if worse,tell|reach
+28,PHQ-9 = 19,phq|19|screen|questionnaire
+28,no substance use,alcohol|drug|drink
+29,"suicidal thoughts, past week",end(ing)? my life|kill|suicid
+29,method considered (pills),pill
+29,no intent,want to die|wouldn'?t do|intent
+29,thoughts frightening,scare|fright
+29,still functioning,work|kid
+29,help-seeking,help|reach
+29,no plan today,plan
+29,means restricted (meds held),hold|holding|access|family member
+29,no firearms,gun|firearm
+29,no drugs / heavy drinking,drug|drink|alcohol
+29,prior safety screening,screen|denied
+30,"paranoid ideation, months",watch|talking about|follow|paranoi
+30,disorganized thoughts,jumbl|thought|explain|mixed
+30,"possible auditory phenomena, no commands",voice|hear
+30,eating/sleeping preserved,eat|sleep
+30,worsening course,worse|getting
+30,family concerned,family|worried|brought
+30,no harm intent,hurt
+30,no intoxication/drugs,drug|intoxicat|alcohol|sober
+30,no medical problems,medical|health
+31,job-loss trigger,job|work|laid off|lost
+31,hopelessness / burden feelings,"hopeless|letting.{0,20}down|burden"
+31,suicidal thoughts ~1 week,"kill|suicid|not.{0,15}be here|sleep and not wake|not wake"
+31,no plan,plan
+31,no intent,intend|act on|intent
+31,"new and increasing, frightening",new|frequent|scare|more
+31,still functioning (children),kid|care|getting up
+31,help-seeking,help|reach|worried
+31,no prior attempts,attempt|never|tried
+31,no firearms,gun|firearm
+31,not stockpiling,stockpil
+31,partner support / would disclose,partner|friend|tell
+31,minimal substance use,drug|drink|alcohol|occasional
+32,6-week-old infant at home,baby|infant|6.?week|newborn|postpartum|six.?week
+32,tearfulness/overwhelm/numbness ~2 weeks,cry|overwhelm|numb|autopilot
+32,intrusive SI incl. pills thought,end(ing)? my life|pill|suicid|not wake|won'?t wake
+32,"ego-dystonic, no desire to die",intrusive|terrif|want to die|scary|scare
+32,severe sleep deprivation,sleep
+32,"no infant-harm thoughts, bonded",baby|bond
+32,"help-seeking, asking urgency",help|urgent
+32,partner at home and aware,partner
+32,no firearms,gun|firearm
+32,not stockpiling,stockpil
+32,no substances,alcohol|drug
+32,no prior attempts,attempt|never
+33,"chronic depression, medication ineffective lately",depress|antidepress|stopped working|not working|feels like it stopped
+33,daily passive SI / 'what's the point',what'?s the point|kill|suicid|point
+33,no method thought through,how I would|method|thought through
+33,no intent,intend|intent|act
+33,passive death wish,sleep and not wake|not wake
+33,daily nature frightening,scare|daily|every day
+33,"social isolation (retired, lives alone)",alone|retired|isolat
+33,"psychiatrist, appointment weeks away",psychiatrist|appointment|weeks
+33,medication adherent,prescrib|as prescribed|take my med
+33,"family contact, would seek if unsafe",family|call|stay
+33,reluctant to burden others,worry them|hesitant|burden
+33,no firearms,gun|firearm
+33,"no drugs, rare alcohol",drug|alcohol|drink|rare
+33,no prior attempts,attempt|never
+34,escalating alcohol use post-divorce,drink|alcohol|divorce
+34,"SI while intoxicated, twice",kill|end(ing)? it|suicid|ending
+34,currently sober,sober
+34,no specific plan or intent,plan|intent
+34,fear of intoxicated impulsivity,impulsiv|drunk|intoxicat|worried|when I('m| am) drink
+34,firearms removed to family,gun|firearm
+34,AA sponsor available,sponsor|\baa\b
+34,weekly contact with children,kid
+34,no other drugs,drug
+34,no prior attempts,attempt|never
+34,help-seeking,help
+35,graduate-school stress/anxiety,school|grad|stress|anxi
+35,"overwhelmed, feeling trapped",can'?t breathe|way out|overwhelm|trapped
+35,"first-ever SI (pills), yesterday",pill|first
+35,"immediately frightening, no wish to die",scare|cried|cry|want to die
+35,no plan or intent,plan|intent
+35,roommate aware and present,roommate
+35,no stockpile / no firearms,stockpil|gun|firearm|access
+35,no prior attempts,attempt|never|first
+35,family support available,family|parent
+35,minimal substance use,drug|drink|social
+36,sudden slurred speech / word-finding trouble,slur|speech|word|talk
+36,facial droop,face|droop
+36,arm weakness with drift,arm|weak|clumsy|drift
+36,left-sided,\bleft\b
+36,onset ~45 minutes ago,45|minute|hour ago
+36,symptoms persisting,"not.{0,10}gone|still|persist"
+36,"first episode, frightened",never happen|first|scared
+36,no severe headache,headache
+36,no head trauma,hit my head|head injur|didn'?t hit
+36,hypertension + hyperlipidemia on medication,blood pressure|cholesterol|medication
+36,not anticoagulated,thinn|anticoag
+36,no prior stroke/TIA,stroke|tia
+36,no stimulant use,cocaine|stimulant|drug
+36,accompanied,with me|someone|here with
+37,acute itchy hives,hive|itch|rash
+37,lip swelling,lip|swell
+37,throat tightness,throat|tight
+37,wheeze / labored inhalation,wheez|breath|air
+37,onset ~20 min after restaurant meal,restaurant|eat|ate|20 min|food
+37,"antihistamine taken, symptoms persist",antihistamine|benadryl|allergy (pill|med)|still there
+37,known peanut/tree-nut allergy,peanut|nut|allerg
+37,unknown exposure this time,don'?t know|not sure|what I was
+37,epinephrine auto-injector unavailable,epi|auto.?inject
+37,no prior intubation,breathing tube|intubat
+37,companion can drive,with me|drive|someone
+38,severe headache,headache
+38,fever,fever
+38,neck stiffness,neck
+38,photophobia,light
+38,vomiting x2,vomit
+38,confusion / cognitive slowing,confus|slow|think|fuzzy
+38,non-blanching petechial spots,spot|purple|rash|fade|press
+38,onset since last night,last night|since
+38,sick contact (roommate),roommate|flu
+38,otherwise healthy / immunocompetent,healthy|immun
+38,ibuprofen ineffective,ibuprofen|advil|hasn'?t helped
+38,no antibiotics started,antibiotic
+39,sudden severe chest pain,chest
+39,tearing quality,tear|rip
+39,radiation to upper back,back
+39,onset ~30 minutes ago,30|minute|half
+39,diaphoresis,sweat
+39,nausea,nause
+39,presyncope,lighthead|pass out|faint|dizz
+39,"worst-ever pain, persisting at rest",worst|severe|at rest|still
+39,longstanding hypertension,blood pressure|hypertens
+39,missed antihypertensive today,missed|skip
+39,no trauma,trauma|injur|accident
+39,no cocaine/stimulants,cocaine|stimulant
+39,no prior MI,heart attack
